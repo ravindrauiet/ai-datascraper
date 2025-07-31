@@ -1,0 +1,120 @@
+{
+  "pin_id": "1012887772451378774",
+  "title": "This contains an image of: ",
+  "description": "",
+  "image_url": "https://i.pinimg.com/736x/80/f8/10/80f8109cd40047b3a9e17b01aff40b95.jpg",
+  "board_name": "office",
+  "board_url": "https://in.pinterest.com/mohanty2922/office/",
+  "author": "mohanty2922",
+  "save_count": null,
+  "created_date": null,
+  "tags": [],
+  "ai_analysis": {
+    "fashion_items": [
+      {
+        "category": "Clothing",
+        "type": "Shirt",
+        "color": [
+          "Black"
+        ],
+        "material": "Cotton",
+        "style": "Casual",
+        "brand": "Unknown",
+        "fabric_details": [
+          "Cotton",
+          "Knit"
+        ],
+        "specific_type": "Turtleneck",
+        "additional_attributes": {
+          "shirt_style": "T-shirt",
+          "neckline": "Turtleneck",
+          "sleeve_type": "Long Sleeve"
+        }
+      },
+      {
+        "category": "Clothing",
+        "type": "Pants",
+        "color": [
+          "Black"
+        ],
+        "material": "Denim",
+        "style": "Casual",
+        "brand": "Unknown",
+        "fabric_details": [
+          "Denim"
+        ],
+        "specific_type": "Jeans",
+        "additional_attributes": {
+          "pants_type": "Jeans",
+          "length": "Full Length",
+          "waist": "Midrise"
+        }
+      },
+      {
+        "category": "Footwear",
+        "type": "Boots",
+        "color": [
+          "Black"
+        ],
+        "material": "Leather",
+        "style": "Casual",
+        "brand": "Unknown",
+        "additional_attributes": {
+          "shoe_type": "Boots",
+          "heel_height": "Low"
+        }
+      },
+      {
+        "category": "Bag",
+        "type": "Handbag",
+        "color": [
+          "Black"
+        ],
+        "material": "Leather",
+        "style": "Casual",
+        "brand": "Saint Laurent",
+        "additional_attributes": {
+          "bag_type": "Handbag",
+          "closure_type": "null",
+          "size": "Small"
+        }
+      },
+      {
+        "category": "Accessory",
+        "type": "Belt",
+        "color": [
+          "Brown",
+          "Gold"
+        ],
+        "material": "Leather",
+        "style": "Casual",
+        "brand": "Unknown",
+        "additional_attributes": {
+          "accessory_type": "Belt",
+          "material": "Leather"
+        }
+      },
+      {
+        "category": "Accessory",
+        "type": "Eyeglasses",
+        "color": [
+          "Black"
+        ],
+        "material": "Plastic",
+        "style": "Casual",
+        "brand": "Unknown",
+        "additional_attributes": {
+          "accessory_type": "Eyeglasses",
+          "material": "Plastic"
+        }
+      }
+    ],
+    "style_analysis": {},
+    "analyzed_at": "2025-08-01T01:36:54.179396",
+    "ai_model_version": "v3.0.0-advanced"
+  },
+  "local_image_path": "scraped_data\\images\\1012887772451378774.jpg",
+  "scraped_at": "2025-08-01T01:31:56.912880",
+  "file_created_at": "2025-08-01T01:36:54.180986",
+  "scraper_version": "advanced_v1.0"
+}

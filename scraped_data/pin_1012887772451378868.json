@@ -1,0 +1,214 @@
+{
+  "pin_id": "1012887772451378868",
+  "title": "This contains an image of: ",
+  "description": "",
+  "image_url": "https://i.pinimg.com/736x/60/81/bd/6081bdba713b4ca16f8d4db4186853f1.jpg",
+  "board_name": "office",
+  "board_url": "https://in.pinterest.com/mohanty2922/office/",
+  "author": "mohanty2922",
+  "save_count": null,
+  "created_date": null,
+  "tags": [],
+  "ai_analysis": {
+    "fashion_items": [
+      {
+        "category": "Clothing",
+        "type": "Top",
+        "color": [
+          "Black"
+        ],
+        "material": "Cotton",
+        "style": "Casual",
+        "brand": "Unknown",
+        "fabric_details": [
+          "Cotton",
+          "Soft"
+        ],
+        "specific_type": "Tank Top",
+        "additional_attributes": {
+          "shirt_style": "Sleeveless",
+          "neckline": "High Neck",
+          "sleeve_type": "Sleeveless"
+        }
+      },
+      {
+        "category": "Clothing",
+        "type": "Pants",
+        "color": [
+          "Black"
+        ],
+        "material": "Polyester",
+        "style": "Casual",
+        "brand": "Unknown",
+        "fabric_details": [
+          "Polyester",
+          "Stretch"
+        ],
+        "specific_type": "Trousers",
+        "additional_attributes": {
+          "pants_type": "Formal",
+          "length": "Full Length",
+          "waist": "High Waisted"
+        }
+      },
+      {
+        "category": "Footwear",
+        "type": "Heels",
+        "color": [
+          "Black"
+        ],
+        "material": "Leather",
+        "style": "Casual",
+        "brand": "Unknown",
+        "additional_attributes": {
+          "shoe_type": "Heels",
+          "heel_height": "Mid"
+        }
+      },
+      {
+        "category": "Bag",
+        "type": "Tote Bag",
+        "color": [
+          "Black"
+        ],
+        "material": "Fabric",
+        "style": "Casual",
+        "brand": "Unknown",
+        "additional_attributes": {
+          "bag_type": "Tote",
+          "closure_type": "null",
+          "size": "Medium"
+        }
+      },
+      {
+        "category": "Accessory",
+        "type": "Sunglasses",
+        "color": [
+          "Black"
+        ],
+        "material": "Plastic",
+        "style": "Casual",
+        "brand": "Unknown",
+        "additional_attributes": {
+          "accessory_type": "Sunglasses",
+          "material": "Plastic"
+        }
+      }
+    ],
+    "style_analysis": {
+      "overall_aesthetic": "This look embodies a sophisticated and effortlessly chic minimalist aesthetic.  The monochromatic palette, streamlined silhouette, and high-quality fabrics create a sense of understated elegance.",
+      "style_category": "Dark Minimalism",
+      "influencer_matches": [
+        {
+          "name": "Kendall Jenner",
+          "instagram": "@kendalljenner",
+          "similarity_reason": "Kendall Jenner often sports similar monochromatic looks with a focus on clean lines and a sleek, modern silhouette.",
+          "style_notes": "Her style frequently incorporates simple, yet expensive-looking pieces, much like this outfit. She often opts for all-black ensembles with tailored elements."
+        },
+        {
+          "name": "Bella Hadid",
+          "instagram": "@bellahadid",
+          "similarity_reason": "Bella Hadid is known for her sleek, minimalist style that often features a monochromatic approach with a focus on body-conscious silhouettes.",
+          "style_notes": "This outfit echoes Hadid's preference for form-fitting pieces and high-quality materials, creating an air of effortless cool."
+        }
+      ],
+      "color_analysis": {
+        "palette": "The outfit utilizes a classic monochrome palette focused entirely on black.",
+        "color_harmony": "The absence of contrasting colors creates a harmonious, unified, and sophisticated look. The various shades and textures of black add visual interest without disrupting the overall unity.",
+        "seasonal_colors": "Black is a universally flattering color suitable for all seasons.  It can be layered with warmer textures in colder months and styled with lighter accessories in warmer months.",
+        "color_psychology": "Black is often associated with power, sophistication, and mystery. In this context, it projects an aura of confidence and understated elegance."
+      },
+      "silhouette_analysis": {
+        "overall_shape": "The outfit creates a long, lean silhouette with a slightly flared leg.",
+        "proportions": "The high-waisted trousers and fitted top enhance the body's natural proportions, creating a balanced and flattering look.",
+        "fit_philosophy": "The fit is predominantly fitted, but not overly tight, creating a streamlined and elegant shape. This approach is flattering for various body types."
+      },
+      "fabric_texture_analysis": {
+        "texture_mix": "While the outfit is predominantly smooth (cotton top and polyester pants), the textured tote bag adds a subtle contrast. This keeps it visually interesting without being overwhelming.",
+        "fabric_quality": "The use of cotton and possibly a stretch polyester suggests a focus on quality materials, lending the outfit a more upscale feel.",
+        "seasonal_appropriateness": "The chosen fabrics are adaptable to various seasons. In colder months, this outfit could be layered; in warmer months, accessories could be adjusted."
+      },
+      "styling_techniques": [
+        "Monochromatic Dressing",
+        "High-Waisted Styling",
+        "Fitted Silhouette",
+        "Accessorizing with a Statement Bag",
+        "Sleek Hairstyle"
+      ],
+      "fashion_nuances": [
+        "The high neck on the tank top adds a touch of sophistication.",
+        "The subtle flare of the trousers balances the fitted top.",
+        "The textured tote bag adds a touch of visual interest without detracting from the minimalist theme.",
+        "The sunglasses add a touch of cool and protect from the sun."
+      ],
+      "occasion_analysis": {
+        "primary_occasions": [
+          "Dinner Date",
+          "Lunch with Friends",
+          "Shopping Trip",
+          "Gallery Opening",
+          "City Walk"
+        ],
+        "style_versatility": "This outfit is versatile, adaptable to various occasions. The addition of different accessories or footwear could elevate it for more formal or casual events.",
+        "dress_code_appropriateness": "This outfit is appropriate for many occasions, even semi-formal ones, depending on the accessories added."
+      },
+      "trend_analysis": {
+        "current_trends": [
+          "Minimalism",
+          "Monochromatic Dressing",
+          "Sleek Silhouettes"
+        ],
+        "timeless_elements": [
+          "The classic combination of black top and trousers is timeless.",
+          "The fitted silhouette remains a staple in fashion."
+        ],
+        "trend_forecast": "This outfit is likely to remain stylish for many seasons due to its emphasis on timeless elements."
+      },
+      "brand_aesthetic": {
+        "similar_brands": [
+          "Aritzia",
+          "COS",
+          "& Other Stories"
+        ],
+        "price_point": "Mid-range to high-range, depending on the specific brands of the items.",
+        "luxury_indicators": [
+          "The use of quality materials like cotton and possibly high-quality polyester hints at luxury. The well-tailored fit and sleek silhouette add to that perception."
+        ]
+      },
+      "personal_style_insights": {
+        "personality_traits": [
+          "Confident",
+          "Sophisticated",
+          "Effortless",
+          "Stylish",
+          "Independent"
+        ],
+        "lifestyle_indications": [
+          "Urban Dweller",
+          "Fashion-Conscious",
+          "Career-Oriented"
+        ],
+        "confidence_level": "This style projects a high level of confidence and self-assuredness."
+      },
+      "styling_recommendations": [
+        "Experiment with different textures in the bag or shoes for subtle contrast.",
+        "Add a pop of color with a bright lipstick or statement jewelry.",
+        "Try switching out the tote bag for a smaller crossbody or clutch depending on the event."
+      ],
+      "sustainability_notes": {
+        "sustainable_aspects": [
+          "The outfit itself does not specifically suggest sustainability, but selecting sustainably-made pieces from brands committed to ethical and environmental practices would further improve its sustainability aspects.",
+          "Consider purchasing timeless pieces made of durable materials to prolong their wear."
+        ],
+        "longevity_potential": "The minimalist and timeless style of this outfit ensures its longevity.",
+        "investment_value": "The focus on high-quality materials and classic silhouettes makes this outfit a good investment."
+      }
+    },
+    "analyzed_at": "2025-08-01T01:34:16.788642",
+    "ai_model_version": "v3.0.0-advanced"
+  },
+  "local_image_path": "scraped_data\\images\\1012887772451378868.jpg",
+  "scraped_at": "2025-08-01T01:31:05.331482",
+  "file_created_at": "2025-08-01T01:34:16.790224",
+  "scraper_version": "advanced_v1.0"
+}

@@ -1,0 +1,298 @@
+{
+  "pin_id": "1012887772451378827",
+  "title": "This contains an image of: ",
+  "description": "",
+  "image_url": "https://i.pinimg.com/736x/e3/eb/99/e3eb998e8721d599be0071f9064e3373.jpg",
+  "board_name": "office",
+  "board_url": "https://in.pinterest.com/mohanty2922/office/",
+  "author": "mohanty2922",
+  "save_count": null,
+  "created_date": null,
+  "tags": [],
+  "ai_analysis": {
+    "fashion_items": [
+      {
+        "category": "Clothing",
+        "type": "Blazer",
+        "color": [
+          "Brown"
+        ],
+        "material": "Unknown",
+        "style": "Formal",
+        "brand": "ZARA",
+        "fabric_details": [
+          "Unknown"
+        ],
+        "specific_type": "Blazer",
+        "additional_attributes": {
+          "shirt_style": [
+            "Unknown"
+          ],
+          "neckline": [
+            "Unknown"
+          ],
+          "sleeve_type": [
+            "Long Sleeve"
+          ]
+        }
+      },
+      {
+        "category": "Clothing",
+        "type": "Jumpsuit",
+        "color": [
+          "Black"
+        ],
+        "material": "Lace",
+        "style": "Formal",
+        "brand": "Unknown",
+        "fabric_details": [
+          "Lace"
+        ],
+        "specific_type": "Jumpsuit",
+        "additional_attributes": {
+          "pants_type": [
+            "Unknown"
+          ],
+          "length": [
+            "Full Length"
+          ],
+          "waist": [
+            "Unknown"
+          ]
+        }
+      },
+      {
+        "category": "Footwear",
+        "type": "Heels",
+        "color": [
+          "Brown"
+        ],
+        "material": "Leather",
+        "style": "Formal",
+        "brand": "MNNG",
+        "additional_attributes": {
+          "shoe_type": [
+            "Heels"
+          ],
+          "heel_height": [
+            "High"
+          ]
+        }
+      },
+      {
+        "category": "Bag",
+        "type": "Handbag",
+        "color": [
+          "Brown"
+        ],
+        "material": "Leather",
+        "style": "Formal",
+        "brand": "Hermès",
+        "additional_attributes": {
+          "bag_type": [
+            "Handbag"
+          ],
+          "closure_type": [
+            "Unknown"
+          ],
+          "size": [
+            "Medium"
+          ]
+        }
+      },
+      {
+        "category": "Accessory",
+        "type": "Sunglasses",
+        "color": [
+          "Tortoise",
+          "Brown"
+        ],
+        "material": "Plastic",
+        "style": "Casual",
+        "brand": "Unknown",
+        "additional_attributes": {
+          "accessory_type": [
+            "Sunglasses"
+          ],
+          "material": [
+            "Plastic"
+          ]
+        }
+      },
+      {
+        "category": "Accessory",
+        "type": "Necklace",
+        "color": [
+          "Gold"
+        ],
+        "material": "Metal",
+        "style": "Formal",
+        "brand": "Unknown",
+        "additional_attributes": {
+          "accessory_type": [
+            "Necklace"
+          ],
+          "material": [
+            "Metal"
+          ]
+        }
+      },
+      {
+        "category": "Accessory",
+        "type": "Earrings",
+        "color": [
+          "Gold"
+        ],
+        "material": "Metal",
+        "style": "Formal",
+        "brand": "Unknown",
+        "additional_attributes": {
+          "accessory_type": [
+            "Earrings"
+          ],
+          "material": [
+            "Metal"
+          ]
+        }
+      },
+      {
+        "category": "Accessory",
+        "type": "Bracelet",
+        "color": [
+          "Gold"
+        ],
+        "material": "Metal",
+        "style": "Formal",
+        "brand": "Unknown",
+        "additional_attributes": {
+          "accessory_type": [
+            "Bracelet"
+          ],
+          "material": [
+            "Metal"
+          ]
+        }
+      }
+    ],
+    "style_analysis": {
+      "overall_aesthetic": "This outfit exudes sophisticated elegance with a touch of modern flair. The combination of a structured blazer, a sleek black jumpsuit, and luxurious accessories creates a polished and put-together look perfect for a variety of formal events.",
+      "style_category": "Modern Formal",
+      "influencer_matches": [
+        {
+          "name": "Chiara Ferragni",
+          "instagram": "@chiaraferragni",
+          "similarity_reason": "Ferragni often incorporates a mix of high-end and high-street brands, similar to this outfit's blend of Hermès and ZARA.  Her style is known for its timeless elegance with a modern edge, which aligns well with this look.",
+          "style_notes": "She frequently styles tailored pieces with luxurious accessories and often wears neutral color palettes punctuated with statement pieces."
+        },
+        {
+          "name": "Olivia Palermo",
+          "instagram": "@oliviapalermo",
+          "similarity_reason": "Palermo's style is synonymous with refined sophistication and attention to detail. This outfit reflects her ability to mix classic silhouettes with modern elements, maintaining a chic and effortlessly stylish appearance.",
+          "style_notes": "Her looks frequently feature a polished, put-together aesthetic and neutral tones with the occasional pop of color or bold accessory."
+        }
+      ],
+      "color_analysis": {
+        "palette": "The primary color palette consists of deep brown, classic black, and gold accents. This creates a rich and sophisticated feel.",
+        "color_harmony": "The color combination is harmonious; the neutral black and brown create a foundation for the gold accents that add a touch of luxury. The colors are sophisticated and timeless.",
+        "seasonal_colors": "These colors are versatile and work well year-round. However, the deeper browns may be particularly suitable for autumn and winter.",
+        "color_psychology": "The palette conveys confidence, elegance, and sophistication. Brown represents stability and earthiness, while black adds mystery and authority. Gold accents suggest wealth and refinement."
+      },
+      "silhouette_analysis": {
+        "overall_shape": "The overall silhouette is long and lean, emphasizing height and creating a streamlined figure. The blazer, jumpsuit, and heels contribute to this effect.",
+        "proportions": "The proportions are well-balanced. The long jumpsuit creates a visually lengthening effect which is balanced by the structured blazer.",
+        "fit_philosophy": "The outfit follows a semi-fitted philosophy. The blazer is structured but not overly tight, the jumpsuit is sleek and fitted without being restrictive."
+      },
+      "fabric_texture_analysis": {
+        "texture_mix": "The outfit incorporates a mix of textures, from the smooth leather of the handbag and heels to the structured fabric of the blazer and the delicate lace of the jumpsuit. This interplay of textures adds visual interest and depth.",
+        "fabric_quality": "The perceived quality is high; the choice of leather for the handbag and heels, along with the structured blazer, conveys a sense of luxury and high quality.",
+        "seasonal_appropriateness": "The fabrics are appropriate for various seasons. Leather can be worn year-round, while the blazer and jumpsuit fabric can be layered for warmth in colder weather."
+      },
+      "styling_techniques": [
+        "Layering (blazer over jumpsuit)",
+        "Color Blocking (black and brown)",
+        "Accessorizing (handbag, jewelry, sunglasses)",
+        "Statement Accessories (Hermès Birkin)"
+      ],
+      "fashion_nuances": [
+        "The choice of a Hermès Birkin bag elevates the entire look, adding a significant touch of luxury.",
+        "The addition of gold jewelry complements the color palette while adding sophistication.",
+        "The tortoise-shell sunglasses add a subtle, yet stylish, contrast to the otherwise formal attire."
+      ],
+      "occasion_analysis": {
+        "primary_occasions": [
+          "Formal events",
+          "Business meetings",
+          "Cocktail parties",
+          "Galas",
+          "Weddings (as a guest)"
+        ],
+        "style_versatility": "The outfit is versatile; the blazer can be removed to dress the look down slightly.",
+        "dress_code_appropriateness": "The attire is appropriate for formal and semi-formal events, adhering to business professional, cocktail, or festive dress codes."
+      },
+      "trend_analysis": {
+        "current_trends": [
+          "Tailored pieces",
+          "Luxe accessories",
+          "Neutral color palettes",
+          "Jumpsuits for formal wear"
+        ],
+        "timeless_elements": [
+          "Classic silhouettes",
+          "Neutral colors",
+          "High-quality materials"
+        ],
+        "trend_forecast": "This look incorporates timeless elements that will remain stylish for years to come, while also reflecting currently popular trends. It will continue to be relevant for the foreseeable future."
+      },
+      "brand_aesthetic": {
+        "similar_brands": [
+          "Max Mara",
+          "Theory",
+          "BOSS",
+          "Burberry"
+        ],
+        "price_point": "High-end to luxury. The Hermès bag alone significantly elevates the price point.",
+        "luxury_indicators": [
+          "Hermès Birkin Bag",
+          "MNNG Heels (generally a higher price point brand)",
+          "Gold jewelry",
+          "High-quality fabrics and leather"
+        ]
+      },
+      "personal_style_insights": {
+        "personality_traits": [
+          "Confident",
+          "Sophisticated",
+          "Elegant",
+          "Stylish",
+          "Attentive to detail"
+        ],
+        "lifestyle_indications": [
+          "Success-oriented",
+          "Appreciates quality and luxury",
+          "Enjoys formal social events",
+          "Values timeless style"
+        ],
+        "confidence_level": "This style projects a high level of confidence. The choices are decisive and express an understanding of personal style."
+      },
+      "styling_recommendations": [
+        "Experiment with different shoe choices; pointed-toe pumps or loafers could also be elegant.",
+        "Consider a bold lip color to create a focal point.",
+        "A change of bag can change the entire mood (a structured clutch for a sleeker look).",
+        "Try swapping the sunglasses for a more formal option like a cat-eye style."
+      ],
+      "sustainability_notes": {
+        "sustainable_aspects": [
+          "Investing in high-quality, durable pieces like a leather handbag and a well-made blazer ensures longevity and reduces the need for frequent purchases."
+        ],
+        "longevity_potential": "The classic elements of this outfit make it likely to remain stylish for several years. Neutral colors and timeless silhouettes increase its longevity.",
+        "investment_value": "This outfit has excellent investment value.  High-quality pieces from reputable brands are likely to retain value over time."
+      }
+    },
+    "analyzed_at": "2025-08-01T01:36:36.871668",
+    "ai_model_version": "v3.0.0-advanced"
+  },
+  "local_image_path": "scraped_data\\images\\1012887772451378827.jpg",
+  "scraped_at": "2025-08-01T01:31:46.295463",
+  "file_created_at": "2025-08-01T01:36:36.873455",
+  "scraper_version": "advanced_v1.0"
+}

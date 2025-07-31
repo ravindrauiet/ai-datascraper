@@ -1,0 +1,204 @@
+{
+  "pin_id": "1012887772451378846",
+  "title": "This contains an image of: office siren outfit",
+  "description": "",
+  "image_url": "https://i.pinimg.com/736x/94/ce/c3/94cec3d1f714a248d7423f9d157c21d8.jpg",
+  "board_name": "office",
+  "board_url": "https://in.pinterest.com/mohanty2922/office/",
+  "author": "mohanty2922",
+  "save_count": null,
+  "created_date": null,
+  "tags": [],
+  "ai_analysis": {
+    "fashion_items": [
+      {
+        "category": "Clothing",
+        "type": "Pants",
+        "color": [
+          "Gray"
+        ],
+        "material": "Polyester",
+        "style": "Casual",
+        "brand": "Unknown",
+        "fabric_details": [
+          "Woven"
+        ],
+        "specific_type": "Wide Leg Trousers",
+        "additional_attributes": {
+          "pants_type": "Formal",
+          "length": "Full Length",
+          "waist": "Midrise"
+        }
+      },
+      {
+        "category": "Clothing",
+        "type": "Shirt",
+        "color": [
+          "White"
+        ],
+        "material": "Cotton",
+        "style": "Casual",
+        "brand": "Unknown",
+        "fabric_details": [
+          "Knit",
+          "Cotton"
+        ],
+        "specific_type": "Long Sleeve Top",
+        "additional_attributes": {
+          "shirt_style": "Long Sleeve",
+          "neckline": "Boat Neck",
+          "sleeve_type": "Long Sleeve"
+        }
+      },
+      {
+        "category": "Footwear",
+        "type": "Heels",
+        "color": [
+          "Black"
+        ],
+        "material": "Leather",
+        "style": "Formal",
+        "brand": "Chanel",
+        "additional_attributes": {
+          "shoe_type": "Formal Shoes",
+          "heel_height": "Mid"
+        }
+      },
+      {
+        "category": "Accessory",
+        "type": "Sunglasses",
+        "color": [
+          "Brown",
+          "Silver"
+        ],
+        "material": "Metal",
+        "style": "Casual",
+        "brand": "Unknown",
+        "additional_attributes": {
+          "accessory_type": "Sunglasses",
+          "material": "Metal"
+        }
+      }
+    ],
+    "style_analysis": {
+      "overall_aesthetic": "This outfit presents a sophisticated blend of minimalist chic and 90s-inspired tailoring, creating a polished yet understated look.  The neutral color palette enhances the streamlined silhouette, while the subtle details add personality.",
+      "style_category": "Modern Minimalist with 90s influences",
+      "influencer_matches": [
+        {
+          "name": "Rosie Huntington-Whiteley",
+          "instagram": "@RosieHW",
+          "similarity_reason": "Rosie often showcases tailored pieces in neutral tones, favouring a sleek, effortless aesthetic with a focus on high-quality fabrics.",
+          "style_notes": "Her style prioritizes clean lines, versatile separates and luxurious basics, much like this outfit demonstrates. She frequently pairs wide-leg trousers with fitted tops and elegant heels."
+        },
+        {
+          "name": "Gwyneth Paltrow (early career)",
+          "instagram": "@GwynethPaltrow",
+          "similarity_reason": "Gwyneth Paltrow's style in her earlier career heavily featured sleek minimalism with a sophisticated edge.",
+          "style_notes": "The combination of tailored wide-leg trousers, a simple fitted top, and classic heels is reminiscent of her earlier looks. The neutral palette and understated elegance also align with her signature aesthetic."
+        }
+      ],
+      "color_analysis": {
+        "palette": "A neutral palette dominated by gray, white, and black, with a hint of brown from the sunglasses and a potential burgundy accent from the nail polish.",
+        "color_harmony": "The outfit uses analogous colors, creating a cohesive and calming effect. The high contrast between black and white adds visual interest while maintaining balance.",
+        "seasonal_colors": "This color palette would transition well across seasons, as neutrals remain timeless. However, the lightness of the white top makes it more appropriate for spring and summer.",
+        "color_psychology": "Gray represents sophistication, neutrality, and practicality. White conveys cleanliness, simplicity, and elegance. Black adds authority and power. The overall effect suggests confidence and composure."
+      },
+      "silhouette_analysis": {
+        "overall_shape": "A predominantly straight silhouette with a defined waist, created by the wide-leg trousers and fitted top. The high-waisted trousers elongate the legs and contribute to the balance of the outfit.",
+        "proportions": "The outfit is well-proportioned and balances the volume of the wide-leg trousers with the fitted top. The heels further elongate the legs.",
+        "fit_philosophy": "The outfit combines a relaxed fit with a tailored approach. The wide-leg trousers offer comfort and movement while being structured, while the top is fitted to accentuate the waist."
+      },
+      "fabric_texture_analysis": {
+        "texture_mix": "The outfit demonstrates a refined contrast in textures: the smooth, woven texture of the trousers contrasts with the knit texture of the top, adding depth and visual interest.",
+        "fabric_quality": "The outfit suggests high-quality materials, with a polished finish. The leather heels, cotton top and woven trousers signify investment pieces.",
+        "seasonal_appropriateness": "The fabrics are suitable for various seasons with layering options to adapt for temperature changes."
+      },
+      "styling_techniques": [
+        "Tucking the top into the trousers to define the waist and create a flattering silhouette",
+        "Using accessories like sunglasses to add personality and a touch of formality",
+        "Selecting heels that complement the silhouette of the outfit and further elongate the legs",
+        "Choosing a neutral color palette to create a harmonious look"
+      ],
+      "fashion_nuances": [
+        "The off-the-shoulder neckline of the top adds a touch of subtle femininity",
+        "The choice of wide-leg trousers offers a relaxed but stylish approach",
+        "The sunglasses frame the face and add a touch of cool",
+        "The high-heeled shoes elevate the outfit, making it more formal"
+      ],
+      "occasion_analysis": {
+        "primary_occasions": [
+          "Business casual events",
+          "Dinner dates",
+          "Art gallery openings",
+          "Work outings"
+        ],
+        "style_versatility": "This outfit is relatively versatile due to its neutral palette and classic pieces. By changing the accessories, it can be adapted to different contexts",
+        "dress_code_appropriateness": "This outfit is appropriate for business casual events and more formal occasions, but also easily adapts for less formal ones with casual accessories"
+      },
+      "trend_analysis": {
+        "current_trends": [
+          "Wide-leg trousers",
+          "Minimalist style",
+          "Neutral color palettes",
+          "90s inspired tailoring"
+        ],
+        "timeless_elements": [
+          "Simple, fitted tops",
+          "Tailored trousers",
+          "Classic heels"
+        ],
+        "trend_forecast": "This outfit aligns with the ongoing trend of elevated minimalism and refined comfort. Wide-leg trousers remain relevant and are expected to stay popular"
+      },
+      "brand_aesthetic": {
+        "similar_brands": [
+          "Theory",
+          "COS",
+          "Aritzia",
+          "J.Crew",
+          "Everlane"
+        ],
+        "price_point": "Mid-range to high-end, given the combination of quality fabrics and designer shoes.",
+        "luxury_indicators": [
+          "Chanel heels",
+          "Structured, high-quality fabrics",
+          "Clean lines and tailoring"
+        ]
+      },
+      "personal_style_insights": {
+        "personality_traits": [
+          "Confident",
+          "Sophisticated",
+          "Understated",
+          "Stylish",
+          "Effortless"
+        ],
+        "lifestyle_indications": [
+          "Professional career",
+          "Appreciation for quality and design",
+          "Balance of work and leisure"
+        ],
+        "confidence_level": "High. The outfit conveys a sense of self-assuredness and style mastery"
+      },
+      "styling_recommendations": [
+        "Experiment with different textures in the top (silk, cashmere)",
+        "Consider a statement belt to enhance the waist definition",
+        "Add jewelry to customize the outfit for different events",
+        "Try switching the heels for loafers or flats for a different vibe"
+      ],
+      "sustainability_notes": {
+        "sustainable_aspects": [
+          "The use of classic pieces that can be worn for years",
+          "Natural materials such as cotton"
+        ],
+        "longevity_potential": "High - classic and timeless pieces are likely to remain in style for years",
+        "investment_value": "High - the quality materials and classic design suggest these pieces will last and remain stylish over time"
+      }
+    },
+    "analyzed_at": "2025-08-01T01:35:41.014074",
+    "ai_model_version": "v3.0.0-advanced"
+  },
+  "local_image_path": "scraped_data\\images\\1012887772451378846.jpg",
+  "scraped_at": "2025-08-01T01:31:30.919019",
+  "file_created_at": "2025-08-01T01:35:41.015859",
+  "scraper_version": "advanced_v1.0"
+}

@@ -1,0 +1,314 @@
+{
+  "pin_id": "1012887772451378872",
+  "title": "This contains an image of: ",
+  "description": "",
+  "image_url": "https://i.pinimg.com/736x/03/ee/5b/03ee5b0bdb0520e888ffa3b492463126.jpg",
+  "board_name": "office",
+  "board_url": "https://in.pinterest.com/mohanty2922/office/",
+  "author": "mohanty2922",
+  "save_count": null,
+  "created_date": null,
+  "tags": [],
+  "ai_analysis": {
+    "fashion_items": [
+      {
+        "category": "Clothing",
+        "type": "Top",
+        "color": [
+          "Off-white",
+          "Cream"
+        ],
+        "material": "Knit",
+        "style": "Formal",
+        "brand": "Unknown",
+        "fabric_details": [
+          "Knit",
+          "Soft"
+        ],
+        "specific_type": "Shell Top",
+        "additional_attributes": {
+          "neckline": [
+            "Cowl Neck"
+          ],
+          "sleeve_type": [
+            "Sleeveless"
+          ]
+        }
+      },
+      {
+        "category": "Clothing",
+        "type": "Pants",
+        "color": [
+          "Dark Blue",
+          "White"
+        ],
+        "material": "Wool",
+        "style": "Formal",
+        "brand": "Unknown",
+        "fabric_details": [
+          "Woven",
+          "Pinstripe"
+        ],
+        "specific_type": "Trousers",
+        "additional_attributes": {
+          "pants_type": [
+            "Formal"
+          ],
+          "length": [
+            "Full Length"
+          ],
+          "waist": [
+            "High Waisted"
+          ]
+        }
+      },
+      {
+        "category": "Footwear",
+        "type": "Heels",
+        "color": [
+          "Off-white",
+          "Cream"
+        ],
+        "material": "Leather",
+        "style": "Formal",
+        "brand": "Yves Saint Laurent",
+        "additional_attributes": {
+          "shoe_type": [
+            "Pumps"
+          ],
+          "heel_height": [
+            "High"
+          ]
+        }
+      },
+      {
+        "category": "Bag",
+        "type": "Handbag",
+        "color": [
+          "Off-white",
+          "Cream"
+        ],
+        "material": "Leather",
+        "style": "Formal",
+        "brand": "Unknown",
+        "additional_attributes": {
+          "bag_type": [
+            "Handbag"
+          ],
+          "closure_type": [
+            "Zipper"
+          ],
+          "size": [
+            "Medium"
+          ]
+        }
+      },
+      {
+        "category": "Accessory",
+        "type": "Eyeglasses",
+        "color": [
+          "Gold",
+          "Clear"
+        ],
+        "material": "Metal",
+        "style": "Formal",
+        "brand": "Unknown",
+        "additional_attributes": {
+          "accessory_type": [
+            "Eyeglasses"
+          ],
+          "material": [
+            "Metal"
+          ]
+        }
+      },
+      {
+        "category": "Accessory",
+        "type": "Earrings",
+        "color": [
+          "White",
+          "Gold"
+        ],
+        "material": "Pearl, Metal",
+        "style": "Formal",
+        "brand": "Unknown",
+        "additional_attributes": {
+          "accessory_type": [
+            "Earrings"
+          ],
+          "material": [
+            "Metal",
+            "Pearl"
+          ]
+        }
+      },
+      {
+        "category": "Accessory",
+        "type": "Bracelet",
+        "color": [
+          "Gold"
+        ],
+        "material": "Metal",
+        "style": "Formal",
+        "brand": "Unknown",
+        "additional_attributes": {
+          "accessory_type": [
+            "Bracelet"
+          ],
+          "material": [
+            "Metal"
+          ]
+        }
+      },
+      {
+        "category": "Accessory",
+        "type": "Ring",
+        "color": [
+          "Gold",
+          "Clear"
+        ],
+        "material": "Metal, Stones",
+        "style": "Formal",
+        "brand": "Unknown",
+        "additional_attributes": {
+          "accessory_type": [
+            "Ring"
+          ],
+          "material": [
+            "Metal",
+            "Stone"
+          ]
+        }
+      },
+      {
+        "category": "Accessory",
+        "type": "Perfume",
+        "color": [
+          "Gold",
+          "Amber"
+        ],
+        "material": "Glass",
+        "style": "Unknown",
+        "brand": "Dior",
+        "additional_attributes": {
+          "accessory_type": [
+            "Perfume"
+          ]
+        }
+      }
+    ],
+    "style_analysis": {
+      "overall_aesthetic": "This outfit exudes sophisticated minimalism with a touch of classic elegance. The neutral color palette, clean lines, and luxurious fabrics create a polished and timeless look.",
+      "style_category": "Power Minimalism",
+      "influencer_matches": [
+        {
+          "name": "Olivia Palermo",
+          "instagram": "@oliviapalermo",
+          "similarity_reason": "Olivia Palermo is known for her impeccably styled minimalist looks, often featuring neutral colors, tailored pieces, and high-quality accessories.",
+          "style_notes": "Her style often incorporates crisp separates, statement accessories, and a focus on luxurious fabrics, mirroring the overall aesthetic of this outfit."
+        },
+        {
+          "name": "Leandra Medine Cohen",
+          "instagram": "@manrepeller",
+          "similarity_reason": "Leandra Medine Cohen's style balances sophisticated pieces with modern twists, incorporating both structured tailoring and unexpected elements.",
+          "style_notes": "Her style often incorporates unexpected pairings of minimalist pieces and unique accessories, like the pearl and gold jewelry in this outfit."
+        }
+      ],
+      "color_analysis": {
+        "palette": "The primary color palette consists of creamy off-whites, dark navy blue, and gold accents. These colors create a sophisticated and balanced visual harmony.",
+        "color_harmony": "The combination of off-white and dark navy blue creates a classic and elegant contrast. Gold accents add a touch of luxury and sophistication.",
+        "seasonal_colors": "The neutral base of off-white and navy is suitable for multiple seasons, while the gold accents evoke a sense of warmth, making it suitable for both cooler and warmer months.",
+        "color_psychology": "Off-white conveys a sense of purity, sophistication, and calmness. Dark navy blue represents authority, strength, and professionalism. Gold represents luxury, confidence, and success."
+      },
+      "silhouette_analysis": {
+        "overall_shape": "The overall silhouette is sleek and tailored, with a focus on clean lines and well-defined proportions.",
+        "proportions": "The high-waisted trousers balance the proportions of the outfit, creating a long, lean silhouette. The fitted shell top accentuates the waistline without being too tight.",
+        "fit_philosophy": "The outfit embraces a semi-fitted silhouette. The shell top is close-fitting but comfortable, while the trousers are tailored but not overly restrictive."
+      },
+      "fabric_texture_analysis": {
+        "texture_mix": "The mix of soft knit fabric in the shell top and the woven pinstripe fabric of the trousers creates textural interest without being overwhelming.",
+        "fabric_quality": "The use of high-quality materials like knit, wool, and leather suggests a focus on luxury and craftsmanship.",
+        "seasonal_appropriateness": "The fabrics are suitable for multiple seasons; the wool trousers will be warmer in cooler months, while the knit top is lightweight enough for warmer weather."
+      },
+      "styling_techniques": [
+        "Tucking in the shell top accentuates the high waist of the trousers.",
+        "Layering gold jewelry adds depth and sophistication.",
+        "Matching the cream-colored top and shoes creates a cohesive and elegant look."
+      ],
+      "fashion_nuances": [
+        "The pinstriped trousers add a subtle touch of pattern and texture.",
+        "The cowl neck of the shell top is a stylish and flattering detail.",
+        "The choice of high heels elongates the legs and enhances the overall silhouette."
+      ],
+      "occasion_analysis": {
+        "primary_occasions": [
+          "Business meetings",
+          "Formal events",
+          "Gallery openings",
+          "High-end cocktail parties"
+        ],
+        "style_versatility": "This outfit is versatile and can be adapted for various occasions. Removing the jewelry could make it more suitable for a daytime business meeting, while adding more statement pieces could make it more suitable for evening events.",
+        "dress_code_appropriateness": "This outfit is highly suitable for business formal, cocktail, and other formal events."
+      },
+      "trend_analysis": {
+        "current_trends": [
+          "Minimalist dressing",
+          "Neutral palettes",
+          "Tailored separates",
+          "High-waisted trousers",
+          "Classic pumps"
+        ],
+        "timeless_elements": [
+          "The neutral color palette and tailored silhouette are timeless elements that transcend current trends.",
+          "High-quality materials ensure the pieces will remain stylish for years."
+        ],
+        "trend_forecast": "This outfit aligns with the continued trend towards sophisticated minimalism, focusing on quality and timeless design."
+      },
+      "brand_aesthetic": {
+        "similar_brands": [
+          "Max Mara",
+          "The Row",
+          "Jil Sander",
+          "Celine"
+        ],
+        "price_point": "Mid to high-end",
+        "luxury_indicators": [
+          "The Yves Saint Laurent heels, quality of materials, and classic, well-made pieces suggest luxury and investment quality."
+        ]
+      },
+      "personal_style_insights": {
+        "personality_traits": [
+          "Sophisticated",
+          "Confident",
+          "Professional",
+          "Stylish",
+          "Understated"
+        ],
+        "lifestyle_indications": [
+          "This outfit suggests a lifestyle that values quality, sophistication, and timeless style.",
+          "It speaks to someone who is successful, self-assured, and appreciates the finer things in life."
+        ],
+        "confidence_level": "The outfit exudes high confidence and assuredness, conveying a powerful and composed image."
+      },
+      "styling_recommendations": [
+        "Experiment with different necklines for the top to see what best fits your body type.",
+        "Consider adding a tailored blazer or coat for added warmth and structure.",
+        "For a more casual look, try pairing the trousers with a simple white t-shirt or a sweater."
+      ],
+      "sustainability_notes": {
+        "sustainable_aspects": [
+          "Choosing high-quality, well-made garments that last for years is a sustainable practice.",
+          "Opting for classic styles that remain relevant over time contributes to sustainable fashion."
+        ],
+        "longevity_potential": "The timeless nature of the outfit ensures it will remain stylish for years to come.",
+        "investment_value": "Investing in high-quality pieces like those in this outfit is a financially sound and environmentally responsible choice."
+      }
+    },
+    "analyzed_at": "2025-08-01T01:33:55.284415",
+    "ai_model_version": "v3.0.0-advanced"
+  },
+  "local_image_path": "scraped_data\\images\\1012887772451378872.jpg",
+  "scraped_at": "2025-08-01T01:31:00.235626",
+  "file_created_at": "2025-08-01T01:33:55.286730",
+  "scraper_version": "advanced_v1.0"
+}

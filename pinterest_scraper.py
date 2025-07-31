@@ -580,6 +580,9 @@ class PinterestScraper:
             scraped_at=pin_data['scraped_at']
         )
         
+        # Save individual pin JSON file
+        self.save_individual_pin_json(pin_obj)
+        
         # Store in MongoDB if AI analysis is available
         if ai_analysis and image_path:
             try:
@@ -648,7 +651,8 @@ class PinterestScraper:
                 self.driver.quit()
     
     def save_data(self, pins: List[PinData]):
-        """Save scraped data to JSON file"""
+        """Save scraped data to JSON and JSONL files"""
+        # Save to main JSON file
         data_file = self.output_dir / self.config['data_file']
         
         # Convert to dict for JSON serialization
@@ -666,6 +670,27 @@ class PinterestScraper:
             json.dump(metadata, f, indent=2)
         
         self.logger.info(f"Data saved to {data_file}")
+        
+        # Also save to JSONL format for easier processing
+        jsonl_file = self.output_dir / 'pinterest_dataset.jsonl'
+        with open(jsonl_file, 'w', encoding='utf-8') as f:
+            for pin in pins:
+                # Create JSONL entry with all pin data
+                jsonl_entry = {
+                    'pin_id': pin.pin_id,
+                    'url': pin.image_url,
+                    'title': pin.title,
+                    'description': pin.description,
+                    'board_url': pin.board_url,
+                    'board_name': pin.board_name,
+                    'scraped_at': pin.scraped_at,
+                    'image_url': pin.image_url,
+                    'tags': pin.tags,
+                    'ai_analysis': pin.ai_analysis
+                }
+                f.write(json.dumps(jsonl_entry, ensure_ascii=False) + '\n')
+        
+        self.logger.info(f"JSONL data saved to {jsonl_file}")
     
     def generate_training_dataset(self, pins: List[PinData]) -> Dict:
         """Generate ML training dataset format"""
@@ -802,6 +827,27 @@ class PinterestScraper:
                     tags.extend([str(brand).lower().replace(' ', '_') for brand in trend_data['inspired_by'] if brand])
         
         return list(set(tags))  # Remove duplicates
+    
+    def save_individual_pin_json(self, pin: PinData):
+        """Save individual pin data to a separate JSON file"""
+        try:
+            # Create filename for individual pin JSON
+            pin_json_filename = f"pin_{pin.pin_id}.json"
+            pin_json_path = self.output_dir / pin_json_filename
+            
+            # Convert pin to dict and add metadata
+            pin_dict = asdict(pin)
+            pin_dict['file_created_at'] = datetime.now().isoformat()
+            pin_dict['scraper_version'] = 'advanced_v1.0'
+            
+            # Save to individual JSON file
+            with open(pin_json_path, 'w', encoding='utf-8') as f:
+                json.dump(pin_dict, f, indent=2, ensure_ascii=False)
+            
+            self.logger.info(f"Individual pin JSON saved: {pin_json_filename}")
+            
+        except Exception as e:
+            self.logger.error(f"Failed to save individual pin JSON for {pin.pin_id}: {e}")
 
 def main():
     """Main execution function"""
