@@ -1,0 +1,5513 @@
+{
+  "metadata": {
+    "total_samples": 40,
+    "created_at": "2025-08-01T00:57:05.011287",
+    "description": "Pinterest fashion dataset with AI analysis"
+  },
+  "samples": [
+    {
+      "image_path": "scraped_data\\images\\1012887772451417581.jpg",
+      "image_id": "1012887772451417581",
+      "title": "This contains an image of: The Time Is Running Out! Think About These 10 Ways To Change Your Amanda-bynes-syn",
+      "description": "",
+      "source_url": "https://i.pinimg.com/736x/de/d0/33/ded0333f11dc139344ba078129973cf7.jpg",
+      "board": "office",
+      "author": "mohanty2922",
+      "labels": [
+        {
+          "category": "Clothing",
+          "type": "Shirt",
+          "color": [
+            "Black"
+          ],
+          "material": "Cotton",
+          "style": "Formal",
+          "brand": "Unknown",
+          "fabric_details": [
+            "Cotton",
+            "Woven"
+          ],
+          "specific_type": "Button-Down Shirt",
+          "additional_attributes": {
+            "shirt_style": "Button Down",
+            "neckline": "V-neck",
+            "sleeve_type": "Three Quarter Sleeve"
+          }
+        },
+        {
+          "category": "Clothing",
+          "type": "Pants",
+          "color": [
+            "Black"
+          ],
+          "material": "Polyester",
+          "style": "Formal",
+          "brand": "Unknown",
+          "fabric_details": [
+            "Polyester",
+            "Woven"
+          ],
+          "specific_type": "Wide Leg Trousers",
+          "additional_attributes": {
+            "pants_type": "Formal",
+            "length": "Full Length",
+            "waist": "High Waisted"
+          }
+        },
+        {
+          "category": "Footwear",
+          "type": "Sneakers",
+          "color": [
+            "Black"
+          ],
+          "material": "Leather",
+          "style": "Casual",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "shoe_type": "Sneakers",
+            "heel_height": "Flat"
+          }
+        },
+        {
+          "category": "Accessory",
+          "type": "Necklace",
+          "color": [
+            "Black",
+            "Brown"
+          ],
+          "material": "Metal",
+          "style": "Bohemian",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "accessory_type": "Necklace",
+            "material": "Metal"
+          }
+        },
+        {
+          "category": "Accessory",
+          "type": "Choker",
+          "color": [
+            "Black"
+          ],
+          "material": "Metal",
+          "style": "Bohemian",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "accessory_type": "Choker",
+            "material": "Metal"
+          }
+        },
+        {
+          "category": "Accessory",
+          "type": "Eyeglasses",
+          "color": [
+            "Black"
+          ],
+          "material": "Plastic",
+          "style": "Casual",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "accessory_type": "Eyeglasses",
+            "material": "Plastic"
+          }
+        },
+        {
+          "category": "Bag",
+          "type": "Shoulder Bag",
+          "color": [
+            "Black"
+          ],
+          "material": "Leather",
+          "style": "Casual",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "bag_type": "Shoulder Bag",
+            "closure_type": "Zipper",
+            "size": "Medium"
+          }
+        }
+      ],
+      "tags": [
+        "brown",
+        "bohemian",
+        "polyester",
+        "accessory",
+        "cotton",
+        "choker",
+        "clothing",
+        "black",
+        "footwear",
+        "shoulder_bag",
+        "metal",
+        "casual",
+        "shirt",
+        "pants",
+        "bag",
+        "necklace",
+        "formal",
+        "eyeglasses",
+        "sneakers",
+        "plastic",
+        "leather"
+      ]
+    },
+    {
+      "image_path": "scraped_data\\images\\1012887772451417281.jpg",
+      "image_id": "1012887772451417281",
+      "title": "This contains an image of: ",
+      "description": "",
+      "source_url": "https://i.pinimg.com/736x/fc/93/bd/fc93bda644d76f04779f0eb40695ad48.jpg",
+      "board": "office",
+      "author": "mohanty2922",
+      "labels": [
+        {
+          "category": "Clothing",
+          "type": "Blazer",
+          "color": [
+            "Black",
+            "White"
+          ],
+          "material": "Polyester",
+          "style": "Formal",
+          "brand": "Unknown",
+          "fabric_details": [
+            "Pinstripe",
+            "Woven"
+          ],
+          "specific_type": "Short Sleeve Blazer",
+          "additional_attributes": {
+            "shirt_style": "Button Down",
+            "neckline": "V-neck",
+            "sleeve_type": "Short Sleeve"
+          }
+        },
+        {
+          "category": "Clothing",
+          "type": "Pants",
+          "color": [
+            "Black",
+            "White"
+          ],
+          "material": "Polyester",
+          "style": "Formal",
+          "brand": "Unknown",
+          "fabric_details": [
+            "Pinstripe",
+            "Woven"
+          ],
+          "specific_type": "Trousers",
+          "additional_attributes": {
+            "pants_type": "Formal",
+            "length": "Full Length",
+            "waist": "High Waisted"
+          }
+        },
+        {
+          "category": "Footwear",
+          "type": "Heels",
+          "color": [
+            "Black"
+          ],
+          "material": "Leather",
+          "style": "Formal",
+          "brand": "Saint Laurent",
+          "additional_attributes": {
+            "shoe_type": "Formal Shoes",
+            "heel_height": "High"
+          }
+        },
+        {
+          "category": "Accessory",
+          "type": "Watch",
+          "color": [
+            "Gold"
+          ],
+          "material": "Metal",
+          "style": "Casual",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "watch_type": "Analog",
+            "features": []
+          }
+        },
+        {
+          "category": "Accessory",
+          "type": "Eyeglasses",
+          "color": [
+            "Black"
+          ],
+          "material": "Metal",
+          "style": "Casual",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "accessory_type": "Eyeglasses",
+            "material": "Metal"
+          }
+        },
+        {
+          "category": "Bag",
+          "type": "Handbag",
+          "color": [
+            "Black"
+          ],
+          "material": "Leather",
+          "style": "Casual",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "bag_type": "Handbag",
+            "closure_type": "Zipper",
+            "size": "Medium"
+          }
+        }
+      ],
+      "tags": [
+        "saint_laurent",
+        "watch",
+        "white",
+        "heels",
+        "polyester",
+        "accessory",
+        "clothing",
+        "black",
+        "footwear",
+        "handbag",
+        "metal",
+        "casual",
+        "pants",
+        "bag",
+        "formal",
+        "gold",
+        "eyeglasses",
+        "blazer",
+        "leather"
+      ]
+    },
+    {
+      "image_path": "scraped_data\\images\\1012887772451417279.jpg",
+      "image_id": "1012887772451417279",
+      "title": "This contains an image of: corporate fit",
+      "description": "",
+      "source_url": "https://i.pinimg.com/736x/17/51/48/1751489e6a42f20471fbd98433a67586.jpg",
+      "board": "office",
+      "author": "mohanty2922",
+      "labels": [
+        {
+          "category": "Clothing",
+          "type": "Shirt",
+          "color": [
+            "Black"
+          ],
+          "material": "Cotton",
+          "style": "Casual",
+          "brand": "Unknown",
+          "fabric_details": [
+            "Cotton",
+            "Knit"
+          ],
+          "specific_type": "T-Shirt",
+          "additional_attributes": {
+            "shirt_style": "T-shirt",
+            "neckline": "Round",
+            "sleeve_type": "Short Sleeve"
+          }
+        },
+        {
+          "category": "Clothing",
+          "type": "Skirt",
+          "color": [
+            "Gray"
+          ],
+          "material": "Polyester",
+          "style": "Casual",
+          "brand": "Unknown",
+          "fabric_details": [
+            "Pleated Polyester"
+          ],
+          "specific_type": "Pleated Skirt",
+          "additional_attributes": {
+            "skirt_length": "Mini",
+            "waist_type": "High Waist"
+          }
+        },
+        {
+          "category": "Footwear",
+          "type": "Boots",
+          "color": [
+            "Black"
+          ],
+          "material": "Leather",
+          "style": "Casual",
+          "brand": "Chanel",
+          "additional_attributes": {
+            "shoe_type": "Boots",
+            "heel_height": "High"
+          }
+        },
+        {
+          "category": "Bag",
+          "type": "Handbag",
+          "color": [
+            "Black"
+          ],
+          "material": "Nylon",
+          "style": "Casual",
+          "brand": "Prada",
+          "additional_attributes": {
+            "bag_type": "Handbag",
+            "closure_type": "Magnetic",
+            "size": "Small"
+          }
+        },
+        {
+          "category": "Accessory",
+          "type": "Eyeglasses",
+          "color": [
+            "Black"
+          ],
+          "material": "Metal",
+          "style": "Casual",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "accessory_type": "Eyeglasses",
+            "material": "Metal"
+          }
+        }
+      ],
+      "tags": [
+        "nylon",
+        "polyester",
+        "accessory",
+        "cotton",
+        "clothing",
+        "black",
+        "footwear",
+        "handbag",
+        "skirt",
+        "metal",
+        "casual",
+        "shirt",
+        "chanel",
+        "bag",
+        "gray",
+        "eyeglasses",
+        "leather",
+        "boots",
+        "prada"
+      ]
+    },
+    {
+      "image_path": "scraped_data\\images\\1012887772451378872.jpg",
+      "image_id": "1012887772451378872",
+      "title": "This contains an image of: ",
+      "description": "",
+      "source_url": "https://i.pinimg.com/736x/03/ee/5b/03ee5b0bdb0520e888ffa3b492463126.jpg",
+      "board": "office",
+      "author": "mohanty2922",
+      "labels": [
+        {
+          "category": "Clothing",
+          "type": "Top",
+          "color": [
+            "Off-white",
+            "Cream"
+          ],
+          "material": "Knit",
+          "style": "Formal",
+          "brand": "Unknown",
+          "fabric_details": [
+            "Knit",
+            "Soft"
+          ],
+          "specific_type": "Shell Top",
+          "additional_attributes": {
+            "neckline": [
+              "Cowl Neck"
+            ],
+            "sleeve_type": [
+              "Sleeveless"
+            ]
+          }
+        },
+        {
+          "category": "Clothing",
+          "type": "Pants",
+          "color": [
+            "Navy Blue",
+            "White"
+          ],
+          "material": "Wool",
+          "style": "Formal",
+          "brand": "Unknown",
+          "fabric_details": [
+            "Pinstripe",
+            "Woven"
+          ],
+          "specific_type": "Trousers",
+          "additional_attributes": {
+            "pants_type": [
+              "Formal"
+            ],
+            "length": [
+              "Full Length"
+            ],
+            "waist": [
+              "High Waisted"
+            ]
+          }
+        },
+        {
+          "category": "Footwear",
+          "type": "Heels",
+          "color": [
+            "Off-white",
+            "Cream"
+          ],
+          "material": "Leather",
+          "style": "Formal",
+          "brand": "Yves Saint Laurent",
+          "additional_attributes": {
+            "shoe_type": [
+              "Pumps"
+            ],
+            "heel_height": [
+              "High"
+            ]
+          }
+        },
+        {
+          "category": "Bag",
+          "type": "Handbag",
+          "color": [
+            "Off-white",
+            "Cream"
+          ],
+          "material": "Leather",
+          "style": "Formal",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "bag_type": [
+              "Handbag"
+            ],
+            "closure_type": [
+              "Zipper"
+            ],
+            "size": [
+              "Medium"
+            ]
+          }
+        },
+        {
+          "category": "Accessory",
+          "type": "Eyewear",
+          "color": [
+            "Gold",
+            "Clear"
+          ],
+          "material": "Metal",
+          "style": "Formal",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "accessory_type": [
+              "Eyeglasses"
+            ],
+            "material": [
+              "Metal"
+            ]
+          }
+        },
+        {
+          "category": "Accessory",
+          "type": "Earrings",
+          "color": [
+            "Gold",
+            "White"
+          ],
+          "material": "Pearl",
+          "style": "Formal",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "accessory_type": [
+              "Earrings"
+            ],
+            "material": [
+              "Metal",
+              "Pearl"
+            ]
+          }
+        },
+        {
+          "category": "Accessory",
+          "type": "Bracelet",
+          "color": [
+            "Gold"
+          ],
+          "material": "Metal",
+          "style": "Formal",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "accessory_type": [
+              "Bracelet"
+            ],
+            "material": [
+              "Gold"
+            ]
+          }
+        },
+        {
+          "category": "Accessory",
+          "type": "Ring",
+          "color": [
+            "Gold",
+            "White"
+          ],
+          "material": "Metal",
+          "style": "Formal",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "accessory_type": [
+              "Ring"
+            ],
+            "material": [
+              "Gold",
+              "Diamond"
+            ]
+          }
+        },
+        {
+          "category": "Accessory",
+          "type": "Perfume",
+          "color": [
+            "Gold",
+            "Clear"
+          ],
+          "material": "Glass",
+          "style": "Unknown",
+          "brand": "Dior",
+          "additional_attributes": {
+            "accessory_type": [
+              "Perfume"
+            ]
+          }
+        }
+      ],
+      "tags": [
+        "wool",
+        "knit",
+        "ring",
+        "off-white",
+        "bracelet",
+        "white",
+        "unknown",
+        "heels",
+        "dior",
+        "accessory",
+        "navy_blue",
+        "earrings",
+        "cream",
+        "perfume",
+        "clothing",
+        "footwear",
+        "handbag",
+        "eyewear",
+        "metal",
+        "top",
+        "pants",
+        "yves_saint_laurent",
+        "pearl",
+        "glass",
+        "bag",
+        "formal",
+        "gold",
+        "leather",
+        "clear"
+      ]
+    },
+    {
+      "image_path": "scraped_data\\images\\1012887772451378868.jpg",
+      "image_id": "1012887772451378868",
+      "title": "This contains an image of: ",
+      "description": "",
+      "source_url": "https://i.pinimg.com/736x/60/81/bd/6081bdba713b4ca16f8d4db4186853f1.jpg",
+      "board": "office",
+      "author": "mohanty2922",
+      "labels": [
+        {
+          "category": "Clothing",
+          "type": "Top",
+          "color": [
+            "Black"
+          ],
+          "material": "Cotton",
+          "style": "Casual",
+          "brand": "Unknown",
+          "fabric_details": [
+            "Cotton",
+            "Stretch"
+          ],
+          "specific_type": "Tank Top",
+          "additional_attributes": {
+            "shirt_style": "Sleeveless",
+            "neckline": "High Neck",
+            "sleeve_type": "Sleeveless"
+          }
+        },
+        {
+          "category": "Clothing",
+          "type": "Pants",
+          "color": [
+            "Black"
+          ],
+          "material": "Polyester",
+          "style": "Casual",
+          "brand": "Unknown",
+          "fabric_details": [
+            "Polyester",
+            "Stretch"
+          ],
+          "specific_type": "Flare Pants",
+          "additional_attributes": {
+            "pants_type": "Formal",
+            "length": "Full Length",
+            "waist": "High Waisted"
+          }
+        },
+        {
+          "category": "Footwear",
+          "type": "Boots",
+          "color": [
+            "Black"
+          ],
+          "material": "Leather",
+          "style": "Casual",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "shoe_type": "Boots",
+            "heel_height": "Low"
+          }
+        },
+        {
+          "category": "Bag",
+          "type": "Tote Bag",
+          "color": [
+            "Black"
+          ],
+          "material": "Fabric",
+          "style": "Casual",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "bag_type": "Tote",
+            "closure_type": "null",
+            "size": "Medium"
+          }
+        },
+        {
+          "category": "Accessory",
+          "type": "Sunglasses",
+          "color": [
+            "Black"
+          ],
+          "material": "Plastic",
+          "style": "Casual",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "accessory_type": "Sunglasses",
+            "material": "Plastic"
+          }
+        }
+      ],
+      "tags": [
+        "fabric",
+        "polyester",
+        "accessory",
+        "casual",
+        "top",
+        "sunglasses",
+        "pants",
+        "cotton",
+        "clothing",
+        "black",
+        "tote_bag",
+        "plastic",
+        "leather",
+        "footwear",
+        "boots",
+        "bag"
+      ]
+    },
+    {
+      "image_path": "scraped_data\\images\\1012887772451378862.jpg",
+      "image_id": "1012887772451378862",
+      "title": "This contains an image of: ",
+      "description": "",
+      "source_url": "https://i.pinimg.com/736x/7a/8d/e4/7a8de497855073f26464686adfa1f13d.jpg",
+      "board": "office",
+      "author": "mohanty2922",
+      "labels": [
+        {
+          "category": "Clothing",
+          "type": "Top",
+          "color": [
+            "Black"
+          ],
+          "material": "Unknown",
+          "style": "Casual",
+          "brand": "Unknown",
+          "fabric_details": [
+            "Unknown"
+          ],
+          "specific_type": "Peplum Top",
+          "additional_attributes": {
+            "shirt_style": [
+              "Sleeveless"
+            ],
+            "neckline": [
+              "Round"
+            ],
+            "sleeve_type": [
+              "Sleeveless"
+            ]
+          }
+        },
+        {
+          "category": "Clothing",
+          "type": "Pants",
+          "color": [
+            "Black"
+          ],
+          "material": "Unknown",
+          "style": "Casual",
+          "brand": "Unknown",
+          "fabric_details": [
+            "Unknown"
+          ],
+          "specific_type": "Wide Leg Pants",
+          "additional_attributes": {
+            "pants_type": [
+              "Formal"
+            ],
+            "length": [
+              "Full Length"
+            ],
+            "waist": [
+              "Midrise"
+            ]
+          }
+        },
+        {
+          "category": "Footwear",
+          "type": "Flats",
+          "color": [
+            "Black"
+          ],
+          "material": "Leather",
+          "style": "Casual",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "shoe_type": [
+              "Flats"
+            ],
+            "heel_height": [
+              "Flat"
+            ]
+          }
+        },
+        {
+          "category": "Accessory",
+          "type": "Necklace",
+          "color": [
+            "Gold"
+          ],
+          "material": "Metal",
+          "style": "Casual",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "accessory_type": [
+              "Necklace"
+            ],
+            "material": [
+              "Metal"
+            ]
+          }
+        },
+        {
+          "category": "Accessory",
+          "type": "Bracelet",
+          "color": [
+            "Gold"
+          ],
+          "material": "Metal",
+          "style": "Casual",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "accessory_type": [
+              "Bracelet"
+            ],
+            "material": [
+              "Metal"
+            ]
+          }
+        },
+        {
+          "category": "Accessory",
+          "type": "Ring",
+          "color": [
+            "Gold"
+          ],
+          "material": "Metal",
+          "style": "Casual",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "accessory_type": [
+              "Ring"
+            ],
+            "material": [
+              "Metal"
+            ]
+          }
+        },
+        {
+          "category": "Accessory",
+          "type": "Earrings",
+          "color": [
+            "Gold"
+          ],
+          "material": "Metal",
+          "style": "Casual",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "accessory_type": [
+              "Earrings"
+            ],
+            "material": [
+              "Metal"
+            ]
+          }
+        },
+        {
+          "category": "Accessory",
+          "type": "Eyeglasses",
+          "color": [
+            "Black"
+          ],
+          "material": "Plastic",
+          "style": "Casual",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "accessory_type": [
+              "Eyeglasses"
+            ],
+            "material": [
+              "Plastic"
+            ]
+          }
+        },
+        {
+          "category": "Accessory",
+          "type": "Hair Tie",
+          "color": [
+            "Black"
+          ],
+          "material": "Fabric",
+          "style": "Casual",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "accessory_type": [
+              "Hair Tie"
+            ],
+            "material": [
+              "Fabric"
+            ]
+          }
+        }
+      ],
+      "tags": [
+        "ring",
+        "flats",
+        "bracelet",
+        "unknown",
+        "accessory",
+        "earrings",
+        "hair_tie",
+        "clothing",
+        "black",
+        "footwear",
+        "fabric",
+        "metal",
+        "casual",
+        "top",
+        "pants",
+        "necklace",
+        "gold",
+        "eyeglasses",
+        "plastic",
+        "leather"
+      ]
+    },
+    {
+      "image_path": "scraped_data\\images\\1012887772451378859.jpg",
+      "image_id": "1012887772451378859",
+      "title": "This contains an image of: ",
+      "description": "",
+      "source_url": "https://i.pinimg.com/736x/e3/db/b8/e3dbb8b810f5187d62d4a363e4b7f6b0.jpg",
+      "board": "office",
+      "author": "mohanty2922",
+      "labels": [
+        {
+          "category": "Clothing",
+          "type": "Shirt",
+          "color": [
+            "Black"
+          ],
+          "material": "Cotton",
+          "style": "Formal",
+          "brand": "Unknown",
+          "fabric_details": [
+            "Cotton",
+            "Ribbed"
+          ],
+          "specific_type": "T-shirt",
+          "additional_attributes": {
+            "shirt_style": "T-shirt",
+            "neckline": "Round",
+            "sleeve_type": "Short Sleeve"
+          }
+        },
+        {
+          "category": "Clothing",
+          "type": "Skirt",
+          "color": [
+            "Black"
+          ],
+          "material": "Wool",
+          "style": "Formal",
+          "brand": "Unknown",
+          "fabric_details": [
+            "Wool"
+          ],
+          "specific_type": "Midi Skirt",
+          "additional_attributes": {
+            "skirt_length": "Midi",
+            "waist_type": "High Waist"
+          }
+        },
+        {
+          "category": "Footwear",
+          "type": "Heels",
+          "color": [
+            "Black"
+          ],
+          "material": "Suede",
+          "style": "Formal",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "shoe_type": "Formal Shoes",
+            "heel_height": "High"
+          }
+        },
+        {
+          "category": "Accessory",
+          "type": "Earrings",
+          "color": [
+            "Silver"
+          ],
+          "material": "Metal",
+          "style": "Formal",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "accessory_type": "Earrings",
+            "material": "Metal"
+          }
+        },
+        {
+          "category": "Accessory",
+          "type": "Watch",
+          "color": [
+            "Silver"
+          ],
+          "material": "Metal",
+          "style": "Formal",
+          "brand": "Cartier",
+          "additional_attributes": {
+            "watch_type": "Analog",
+            "features": []
+          }
+        },
+        {
+          "category": "Bag",
+          "type": "Clutch",
+          "color": [
+            "Beige"
+          ],
+          "material": "Leather",
+          "style": "Formal",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "bag_type": "Clutch",
+            "closure_type": "Magnetic",
+            "size": "Small"
+          }
+        }
+      ],
+      "tags": [
+        "wool",
+        "watch",
+        "heels",
+        "accessory",
+        "earrings",
+        "clutch",
+        "suede",
+        "cotton",
+        "clothing",
+        "black",
+        "beige",
+        "footwear",
+        "skirt",
+        "metal",
+        "shirt",
+        "bag",
+        "formal",
+        "silver",
+        "cartier",
+        "leather"
+      ]
+    },
+    {
+      "image_path": "scraped_data\\images\\1012887772451378848.jpg",
+      "image_id": "1012887772451378848",
+      "title": "This may contain: a woman standing in front of a mirror holding a purse",
+      "description": "",
+      "source_url": "https://i.pinimg.com/736x/9f/f4/52/9ff4521f864ad7b643fb58003e6f107b.jpg",
+      "board": "office",
+      "author": "mohanty2922",
+      "labels": [
+        {
+          "category": "Clothing",
+          "type": "Shirt",
+          "color": [
+            "Black"
+          ],
+          "material": "Silk",
+          "style": "Formal",
+          "brand": "Unknown",
+          "fabric_details": [
+            "Silk",
+            "Smooth"
+          ],
+          "specific_type": "Button-down Shirt",
+          "additional_attributes": {
+            "shirt_style": "Button Down",
+            "neckline": "Collared",
+            "sleeve_type": "Short Sleeve"
+          }
+        },
+        {
+          "category": "Clothing",
+          "type": "Pants",
+          "color": [
+            "Black"
+          ],
+          "material": "Polyester",
+          "style": "Formal",
+          "brand": "Unknown",
+          "fabric_details": [
+            "Polyester",
+            "Woven"
+          ],
+          "specific_type": "Trousers",
+          "additional_attributes": {
+            "pants_type": "Formal",
+            "length": "Full Length",
+            "waist": "High Waisted"
+          }
+        },
+        {
+          "category": "Footwear",
+          "type": "Heels",
+          "color": [
+            "Black"
+          ],
+          "material": "Patent Leather",
+          "style": "Formal",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "shoe_type": "Formal Shoes",
+            "heel_height": "High"
+          }
+        },
+        {
+          "category": "Bag",
+          "type": "Handbag",
+          "color": [
+            "Brown"
+          ],
+          "material": "Leather",
+          "style": "Formal",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "bag_type": "Handbag",
+            "closure_type": "Zipper",
+            "size": "Medium"
+          }
+        }
+      ],
+      "tags": [
+        "polyester",
+        "patent_leather",
+        "shirt",
+        "formal",
+        "silk",
+        "handbag",
+        "pants",
+        "brown",
+        "clothing",
+        "black",
+        "leather",
+        "footwear",
+        "heels",
+        "bag"
+      ]
+    },
+    {
+      "image_path": "scraped_data\\images\\1012887772451378847.jpg",
+      "image_id": "1012887772451378847",
+      "title": "This contains an image of: ",
+      "description": "",
+      "source_url": "https://i.pinimg.com/736x/7a/21/96/7a2196d960966bdbf15f940aaa3ff547.jpg",
+      "board": "office",
+      "author": "mohanty2922",
+      "labels": [
+        {
+          "category": "Clothing",
+          "type": "Sweater",
+          "color": [
+            "Gray"
+          ],
+          "material": "Wool",
+          "style": "Casual",
+          "brand": "Unknown",
+          "fabric_details": [
+            "Knit",
+            "Wool"
+          ],
+          "specific_type": "Sweater",
+          "additional_attributes": {
+            "shirt_style": "T-shirt",
+            "neckline": "Round",
+            "sleeve_type": "Long Sleeve"
+          }
+        },
+        {
+          "category": "Clothing",
+          "type": "Pants",
+          "color": [
+            "Black"
+          ],
+          "material": "Polyester",
+          "style": "Formal",
+          "brand": "Unknown",
+          "fabric_details": [
+            "Woven",
+            "Polyester"
+          ],
+          "specific_type": "Trousers",
+          "additional_attributes": {
+            "pants_type": "Formal",
+            "length": "Full Length",
+            "waist": "High Waisted"
+          }
+        },
+        {
+          "category": "Footwear",
+          "type": "Heels",
+          "color": [
+            "Black"
+          ],
+          "material": "Leather",
+          "style": "Formal",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "shoe_type": "Formal Shoes",
+            "heel_height": "High"
+          }
+        },
+        {
+          "category": "Bag",
+          "type": "Handbag",
+          "color": [
+            "Black"
+          ],
+          "material": "Leather",
+          "style": "Formal",
+          "brand": "Yves Saint Laurent",
+          "additional_attributes": {
+            "bag_type": "Handbag",
+            "closure_type": "Zipper",
+            "size": "Medium"
+          }
+        },
+        {
+          "category": "Accessory",
+          "type": "Watch",
+          "color": [
+            "Black",
+            "Gold"
+          ],
+          "material": [
+            "Leather",
+            "Metal"
+          ],
+          "style": "Formal",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "watch_type": "Analog",
+            "features": []
+          }
+        },
+        {
+          "category": "Accessory",
+          "type": "Earrings",
+          "color": [
+            "Gold"
+          ],
+          "material": "Metal",
+          "style": "Casual",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "accessory_type": "Earrings",
+            "material": "Metal"
+          }
+        }
+      ],
+      "tags": [
+        "wool",
+        "watch",
+        "heels",
+        "polyester",
+        "accessory",
+        "earrings",
+        "clothing",
+        "black",
+        "footwear",
+        "handbag",
+        "metal",
+        "casual",
+        "pants",
+        "yves_saint_laurent",
+        "bag",
+        "formal",
+        "gray",
+        "gold",
+        "leather",
+        "sweater"
+      ]
+    },
+    {
+      "image_path": "scraped_data\\images\\1012887772451378846.jpg",
+      "image_id": "1012887772451378846",
+      "title": "This contains an image of: office siren outfit",
+      "description": "",
+      "source_url": "https://i.pinimg.com/736x/94/ce/c3/94cec3d1f714a248d7423f9d157c21d8.jpg",
+      "board": "office",
+      "author": "mohanty2922",
+      "labels": [
+        {
+          "category": "Clothing",
+          "type": "Pants",
+          "color": [
+            "Gray"
+          ],
+          "material": "Polyester",
+          "style": "Casual",
+          "brand": "Unknown",
+          "fabric_details": [
+            "Woven",
+            "Polyester"
+          ],
+          "specific_type": "Wide Leg Trousers",
+          "additional_attributes": {
+            "pants_type": "Formal",
+            "length": "Full Length",
+            "waist": "High Waisted"
+          }
+        },
+        {
+          "category": "Clothing",
+          "type": "Shirt",
+          "color": [
+            "White"
+          ],
+          "material": "Cotton",
+          "style": "Casual",
+          "brand": "Unknown",
+          "fabric_details": [
+            "Knit",
+            "Cotton"
+          ],
+          "specific_type": "Long Sleeve",
+          "additional_attributes": {
+            "shirt_style": "Long Sleeve",
+            "neckline": "Boat Neck",
+            "sleeve_type": "Long Sleeve"
+          }
+        },
+        {
+          "category": "Footwear",
+          "type": "Heels",
+          "color": [
+            "Black"
+          ],
+          "material": "Leather",
+          "style": "Formal",
+          "brand": "Chanel",
+          "additional_attributes": {
+            "shoe_type": "Formal Shoes",
+            "heel_height": "High"
+          }
+        },
+        {
+          "category": "Accessory",
+          "type": "Sunglasses",
+          "color": [
+            "Black",
+            "Silver"
+          ],
+          "material": "Metal",
+          "style": "Casual",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "accessory_type": "Sunglasses",
+            "material": "Metal"
+          }
+        }
+      ],
+      "tags": [
+        "polyester",
+        "accessory",
+        "metal",
+        "casual",
+        "shirt",
+        "formal",
+        "gray",
+        "sunglasses",
+        "chanel",
+        "silver",
+        "pants",
+        "cotton",
+        "clothing",
+        "white",
+        "black",
+        "leather",
+        "footwear",
+        "heels"
+      ]
+    },
+    {
+      "image_path": "scraped_data\\images\\1012887772451378843.jpg",
+      "image_id": "1012887772451378843",
+      "title": "This contains an image of: ",
+      "description": "",
+      "source_url": "https://i.pinimg.com/736x/09/13/cd/0913cd85ce7635bbb9f6752fc4405ba0.jpg",
+      "board": "office",
+      "author": "mohanty2922",
+      "labels": [
+        {
+          "category": "Clothing",
+          "type": "Top",
+          "color": [
+            "Black"
+          ],
+          "material": "Unknown",
+          "style": "Formal",
+          "brand": "Unknown",
+          "fabric_details": [
+            "Unknown"
+          ],
+          "specific_type": "Tube Top",
+          "additional_attributes": {}
+        },
+        {
+          "category": "Clothing",
+          "type": "Pants",
+          "color": [
+            "Black"
+          ],
+          "material": "Unknown",
+          "style": "Formal",
+          "brand": "Unknown",
+          "fabric_details": [
+            "Unknown"
+          ],
+          "specific_type": "Trousers",
+          "additional_attributes": {
+            "pants_type": "Formal",
+            "length": "Full Length",
+            "waist": "High Waisted"
+          }
+        },
+        {
+          "category": "Footwear",
+          "type": "Heels",
+          "color": [
+            "Black",
+            "Gold"
+          ],
+          "material": "Patent Leather",
+          "style": "Formal",
+          "brand": "Yves Saint Laurent",
+          "additional_attributes": {
+            "shoe_type": "Sandals",
+            "heel_height": "High"
+          }
+        },
+        {
+          "category": "Bag",
+          "type": "Handbag",
+          "color": [
+            "Black"
+          ],
+          "material": "Leather",
+          "style": "Formal",
+          "brand": "Herm\u00e8s",
+          "additional_attributes": {
+            "bag_type": "Handbag",
+            "closure_type": "Unknown",
+            "size": "Large"
+          }
+        },
+        {
+          "category": "Accessory",
+          "type": "Watch",
+          "color": [
+            "Gold"
+          ],
+          "material": "Metal",
+          "style": "Formal",
+          "brand": "Patek Philippe",
+          "additional_attributes": {
+            "watch_type": "Analog",
+            "features": []
+          }
+        },
+        {
+          "category": "Accessory",
+          "type": "Earrings",
+          "color": [
+            "Gold"
+          ],
+          "material": "Metal",
+          "style": "Formal",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "accessory_type": "Earrings",
+            "material": "Metal"
+          }
+        },
+        {
+          "category": "Accessory",
+          "type": "Bracelet",
+          "color": [
+            "Gold"
+          ],
+          "material": "Metal",
+          "style": "Formal",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "accessory_type": "Bracelet",
+            "material": "Metal"
+          }
+        },
+        {
+          "category": "Accessory",
+          "type": "Eyeglasses",
+          "color": [
+            "Black",
+            "Gold"
+          ],
+          "material": "Plastic",
+          "style": "Formal",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "accessory_type": "Eyeglasses",
+            "material": "Plastic"
+          }
+        }
+      ],
+      "tags": [
+        "watch",
+        "bracelet",
+        "unknown",
+        "herm\u00e8s",
+        "heels",
+        "accessory",
+        "patent_leather",
+        "earrings",
+        "clothing",
+        "black",
+        "footwear",
+        "handbag",
+        "metal",
+        "top",
+        "pants",
+        "yves_saint_laurent",
+        "bag",
+        "patek_philippe",
+        "formal",
+        "gold",
+        "eyeglasses",
+        "plastic",
+        "leather"
+      ]
+    },
+    {
+      "image_path": "scraped_data\\images\\1012887772451378840.jpg",
+      "image_id": "1012887772451378840",
+      "title": "This contains an image of: ",
+      "description": "",
+      "source_url": "https://i.pinimg.com/736x/08/3e/fe/083efe9e47cb62d66c355af333342ec1.jpg",
+      "board": "office",
+      "author": "mohanty2922",
+      "labels": [
+        {
+          "category": "Clothing",
+          "type": "Pants",
+          "color": [
+            "Black"
+          ],
+          "material": "Wool",
+          "style": "Formal",
+          "brand": "Unknown",
+          "fabric_details": [
+            "Woolen",
+            "Smooth"
+          ],
+          "specific_type": "Trousers",
+          "additional_attributes": {
+            "pants_type": "Formal",
+            "length": "Full Length",
+            "waist": "High Waisted"
+          }
+        },
+        {
+          "category": "Clothing",
+          "type": "Top",
+          "color": [
+            "Black"
+          ],
+          "material": "Polyester",
+          "style": "Formal",
+          "brand": "Dior",
+          "fabric_details": [
+            "Woven",
+            "Smooth"
+          ],
+          "specific_type": "Bodysuit",
+          "additional_attributes": {
+            "shirt_style": "Sleeveless",
+            "neckline": "Round",
+            "sleeve_type": "Sleeveless"
+          }
+        },
+        {
+          "category": "Footwear",
+          "type": "Heels",
+          "color": [
+            "Black"
+          ],
+          "material": "Leather",
+          "style": "Formal",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "shoe_type": "Formal Shoes",
+            "heel_height": "Mid"
+          }
+        },
+        {
+          "category": "Bag",
+          "type": "Handbag",
+          "color": [
+            "Black"
+          ],
+          "material": "Leather",
+          "style": "Formal",
+          "brand": "Hermes",
+          "additional_attributes": {
+            "bag_type": "Handbag",
+            "closure_type": "Turn-lock",
+            "size": "Medium"
+          }
+        },
+        {
+          "category": "Accessory",
+          "type": "Eyeglasses",
+          "color": [
+            "Black"
+          ],
+          "material": "Plastic",
+          "style": "Formal",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "accessory_type": "Eyeglasses",
+            "material": "Plastic"
+          }
+        },
+        {
+          "category": "Accessory",
+          "type": "Watch",
+          "color": [
+            "Silver",
+            "Gold"
+          ],
+          "material": [
+            "Metal",
+            "Leather"
+          ],
+          "style": "Formal",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "watch_type": "Analog",
+            "features": []
+          }
+        }
+      ],
+      "tags": [
+        "wool",
+        "watch",
+        "heels",
+        "dior",
+        "polyester",
+        "accessory",
+        "clothing",
+        "black",
+        "footwear",
+        "handbag",
+        "metal",
+        "top",
+        "pants",
+        "bag",
+        "formal",
+        "silver",
+        "gold",
+        "eyeglasses",
+        "hermes",
+        "plastic",
+        "leather"
+      ]
+    },
+    {
+      "image_path": "scraped_data\\images\\1012887772451378827.jpg",
+      "image_id": "1012887772451378827",
+      "title": "This contains an image of: ",
+      "description": "",
+      "source_url": "https://i.pinimg.com/736x/e3/eb/99/e3eb998e8721d599be0071f9064e3373.jpg",
+      "board": "office",
+      "author": "mohanty2922",
+      "labels": [
+        {
+          "category": "Clothing",
+          "type": "Blazer",
+          "color": [
+            "Brown"
+          ],
+          "material": "Wool",
+          "style": "Formal",
+          "brand": "ZARA",
+          "fabric_details": [
+            "Woolen",
+            "Textured"
+          ],
+          "specific_type": "Blazer",
+          "additional_attributes": {
+            "shirt_style": [
+              "Long Sleeve"
+            ],
+            "neckline": [
+              "Collared"
+            ],
+            "sleeve_type": [
+              "Long Sleeve"
+            ]
+          }
+        },
+        {
+          "category": "Clothing",
+          "type": "Jumpsuit",
+          "color": [
+            "Black"
+          ],
+          "material": "Lace",
+          "style": "Formal",
+          "brand": "Unknown",
+          "fabric_details": [
+            "Lace",
+            "Stretchy"
+          ],
+          "specific_type": "Jumpsuit",
+          "additional_attributes": {}
+        },
+        {
+          "category": "Footwear",
+          "type": "Heels",
+          "color": [
+            "Brown"
+          ],
+          "material": "Leather",
+          "style": "Formal",
+          "brand": "MN",
+          "additional_attributes": {
+            "shoe_type": [
+              "Heels"
+            ],
+            "heel_height": [
+              "High"
+            ]
+          }
+        },
+        {
+          "category": "Bag",
+          "type": "Handbag",
+          "color": [
+            "Brown"
+          ],
+          "material": "Leather",
+          "style": "Formal",
+          "brand": "Hermes",
+          "additional_attributes": {
+            "bag_type": [
+              "Handbag"
+            ],
+            "closure_type": [
+              "Twist Lock"
+            ],
+            "size": [
+              "Medium"
+            ]
+          }
+        },
+        {
+          "category": "Accessory",
+          "type": "Sunglasses",
+          "color": [
+            "Tortoise",
+            "Brown"
+          ],
+          "material": "Plastic",
+          "style": "Casual",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "accessory_type": [
+              "Sunglasses"
+            ],
+            "material": [
+              "Plastic"
+            ]
+          }
+        },
+        {
+          "category": "Accessory",
+          "type": "Necklace",
+          "color": [
+            "Gold"
+          ],
+          "material": "Metal",
+          "style": "Formal",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "accessory_type": [
+              "Necklace"
+            ],
+            "material": [
+              "Metal"
+            ]
+          }
+        },
+        {
+          "category": "Accessory",
+          "type": "Earrings",
+          "color": [
+            "Gold"
+          ],
+          "material": "Metal",
+          "style": "Formal",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "accessory_type": [
+              "Earrings"
+            ],
+            "material": [
+              "Metal"
+            ]
+          }
+        },
+        {
+          "category": "Accessory",
+          "type": "Bracelet",
+          "color": [
+            "Gold"
+          ],
+          "material": "Metal",
+          "style": "Formal",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "accessory_type": [
+              "Bracelet"
+            ],
+            "material": [
+              "Metal"
+            ]
+          }
+        }
+      ],
+      "tags": [
+        "wool",
+        "jumpsuit",
+        "sunglasses",
+        "mn",
+        "brown",
+        "bracelet",
+        "heels",
+        "accessory",
+        "earrings",
+        "clothing",
+        "black",
+        "zara",
+        "footwear",
+        "handbag",
+        "metal",
+        "casual",
+        "bag",
+        "necklace",
+        "formal",
+        "gold",
+        "blazer",
+        "tortoise",
+        "hermes",
+        "plastic",
+        "lace",
+        "leather"
+      ]
+    },
+    {
+      "image_path": "scraped_data\\images\\1012887772451378774.jpg",
+      "image_id": "1012887772451378774",
+      "title": "This contains an image of: ",
+      "description": "",
+      "source_url": "https://i.pinimg.com/736x/80/f8/10/80f8109cd40047b3a9e17b01aff40b95.jpg",
+      "board": "office",
+      "author": "mohanty2922",
+      "labels": [
+        {
+          "category": "Clothing",
+          "type": "Shirt",
+          "color": [
+            "Black"
+          ],
+          "material": "Cotton",
+          "style": "Casual",
+          "brand": "Unknown",
+          "fabric_details": [
+            "Cotton",
+            "Soft"
+          ],
+          "specific_type": "Turtleneck",
+          "additional_attributes": {
+            "shirt_style": "T-shirt",
+            "neckline": "Turtleneck",
+            "sleeve_type": "Long Sleeve"
+          }
+        },
+        {
+          "category": "Clothing",
+          "type": "Pants",
+          "color": [
+            "Black"
+          ],
+          "material": "Denim",
+          "style": "Casual",
+          "brand": "Unknown",
+          "fabric_details": [
+            "Denim"
+          ],
+          "specific_type": "Jeans",
+          "additional_attributes": {
+            "pants_type": "Jeans",
+            "length": "Full Length",
+            "waist": "Midrise"
+          }
+        },
+        {
+          "category": "Footwear",
+          "type": "Boots",
+          "color": [
+            "Black"
+          ],
+          "material": "Leather",
+          "style": "Casual",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "shoe_type": "Boots",
+            "heel_height": "Flat"
+          }
+        },
+        {
+          "category": "Bag",
+          "type": "Handbag",
+          "color": [
+            "Black"
+          ],
+          "material": "Leather",
+          "style": "Casual",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "bag_type": "Handbag",
+            "closure_type": "Unknown",
+            "size": "Small"
+          }
+        },
+        {
+          "category": "Accessory",
+          "type": "Belt",
+          "color": [
+            "Brown",
+            "Gold"
+          ],
+          "material": "Leather",
+          "style": "Casual",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "accessory_type": "Belt",
+            "material": "Leather"
+          }
+        }
+      ],
+      "tags": [
+        "accessory",
+        "casual",
+        "shirt",
+        "handbag",
+        "gold",
+        "denim",
+        "pants",
+        "cotton",
+        "brown",
+        "clothing",
+        "black",
+        "belt",
+        "leather",
+        "footwear",
+        "boots",
+        "bag"
+      ]
+    },
+    {
+      "image_path": "scraped_data\\images\\1012887772451378769.jpg",
+      "image_id": "1012887772451378769",
+      "title": "This contains an image of: ",
+      "description": "",
+      "source_url": "https://i.pinimg.com/736x/90/7b/0b/907b0ba70086014f3aacc8b91e17ace2.jpg",
+      "board": "office",
+      "author": "mohanty2922",
+      "labels": [
+        {
+          "category": "Clothing",
+          "type": "Top",
+          "color": [
+            "Brown"
+          ],
+          "material": "Knit",
+          "style": "Casual",
+          "brand": "Unknown",
+          "fabric_details": [
+            "Knit"
+          ],
+          "specific_type": "Sleeveless Top",
+          "additional_attributes": {
+            "shirt_style": "Sleeveless",
+            "neckline": "High Neck"
+          }
+        },
+        {
+          "category": "Clothing",
+          "type": "Pants",
+          "color": [
+            "Gray"
+          ],
+          "material": "Wool",
+          "style": "Formal",
+          "brand": "Unknown",
+          "fabric_details": [
+            "Woven"
+          ],
+          "specific_type": "Wide Leg Trousers",
+          "additional_attributes": {
+            "pants_type": "Formal",
+            "length": "Full Length",
+            "waist": "High Waisted"
+          }
+        },
+        {
+          "category": "Footwear",
+          "type": "Heels",
+          "color": [
+            "Black"
+          ],
+          "material": "Patent Leather",
+          "style": "Formal",
+          "brand": "Yves Saint Laurent",
+          "additional_attributes": {
+            "shoe_type": "Formal Shoes",
+            "heel_height": "High"
+          }
+        },
+        {
+          "category": "Bag",
+          "type": "Handbag",
+          "color": [
+            "Brown"
+          ],
+          "material": "Suede",
+          "style": "Casual",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "bag_type": "Tote",
+            "closure_type": "null",
+            "size": "Medium"
+          }
+        },
+        {
+          "category": "Accessory",
+          "type": "Watch",
+          "color": [
+            "Silver"
+          ],
+          "material": "Metal",
+          "style": "Casual",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "watch_type": "Analog",
+            "features": "null"
+          }
+        }
+      ],
+      "tags": [
+        "wool",
+        "knit",
+        "watch",
+        "brown",
+        "heels",
+        "accessory",
+        "patent_leather",
+        "suede",
+        "clothing",
+        "black",
+        "footwear",
+        "handbag",
+        "metal",
+        "casual",
+        "top",
+        "pants",
+        "yves_saint_laurent",
+        "bag",
+        "formal",
+        "gray",
+        "silver"
+      ]
+    },
+    {
+      "image_path": "scraped_data\\images\\1012887772451378762.jpg",
+      "image_id": "1012887772451378762",
+      "title": "This contains an image of: siren office girl outfit",
+      "description": "",
+      "source_url": "https://i.pinimg.com/736x/9f/8d/ac/9f8daca52ba7d1b93cdf0e409814daa4.jpg",
+      "board": "office",
+      "author": "mohanty2922",
+      "labels": [
+        {
+          "category": "Clothing",
+          "type": "Shirt",
+          "color": [
+            "Black",
+            "White"
+          ],
+          "material": "Cotton",
+          "style": "Formal",
+          "brand": "Unknown",
+          "fabric_details": [
+            "Cotton",
+            "Woven"
+          ],
+          "specific_type": "Blouse",
+          "additional_attributes": {
+            "shirt_style": "Button Down",
+            "neckline": "V-neck",
+            "sleeve_type": "Long Sleeve"
+          }
+        },
+        {
+          "category": "Clothing",
+          "type": "Skirt",
+          "color": [
+            "Black"
+          ],
+          "material": "Wool",
+          "style": "Formal",
+          "brand": "Unknown",
+          "fabric_details": [
+            "Wool",
+            "Knit"
+          ],
+          "specific_type": "Pencil Skirt",
+          "additional_attributes": {
+            "skirt_length": "Midi",
+            "waist_type": "High Waist"
+          }
+        },
+        {
+          "category": "Clothing",
+          "type": "Tie",
+          "color": [
+            "Black"
+          ],
+          "material": "Silk",
+          "style": "Formal",
+          "brand": "Unknown",
+          "fabric_details": [
+            "Silk"
+          ],
+          "specific_type": "Necktie",
+          "additional_attributes": {}
+        },
+        {
+          "category": "Footwear",
+          "type": "Heels",
+          "color": [
+            "Black"
+          ],
+          "material": "Patent Leather",
+          "style": "Formal",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "shoe_type": "Heels",
+            "heel_height": "Low"
+          }
+        },
+        {
+          "category": "Bag",
+          "type": "Handbag",
+          "color": [
+            "Black"
+          ],
+          "material": "Leather",
+          "style": "Formal",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "bag_type": "Handbag",
+            "closure_type": "Twist Lock",
+            "size": "Medium"
+          }
+        },
+        {
+          "category": "Accessory",
+          "type": "Eyeglasses",
+          "color": [
+            "Black"
+          ],
+          "material": "Plastic",
+          "style": "Formal",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "accessory_type": "Eyeglasses",
+            "material": "Plastic"
+          }
+        }
+      ],
+      "tags": [
+        "wool",
+        "white",
+        "heels",
+        "accessory",
+        "patent_leather",
+        "silk",
+        "cotton",
+        "clothing",
+        "black",
+        "footwear",
+        "handbag",
+        "skirt",
+        "tie",
+        "shirt",
+        "bag",
+        "formal",
+        "eyeglasses",
+        "plastic",
+        "leather"
+      ]
+    },
+    {
+      "image_path": "scraped_data\\images\\1012887772451378761.jpg",
+      "image_id": "1012887772451378761",
+      "title": "This contains an image of: ",
+      "description": "",
+      "source_url": "https://i.pinimg.com/736x/70/f3/f3/70f3f370203b11e83ae2ba8ec0b6fa75.jpg",
+      "board": "office",
+      "author": "mohanty2922",
+      "labels": [
+        {
+          "category": "Clothing",
+          "type": "Shirt",
+          "color": [
+            "Black"
+          ],
+          "material": "Cotton",
+          "style": "Formal",
+          "brand": "Unknown",
+          "fabric_details": [
+            "Cotton",
+            "Knit"
+          ],
+          "specific_type": "T-shirt",
+          "additional_attributes": {
+            "shirt_style": "T-shirt",
+            "neckline": "Round",
+            "sleeve_type": "Short Sleeve"
+          }
+        },
+        {
+          "category": "Clothing",
+          "type": "Pants",
+          "color": [
+            "Gray"
+          ],
+          "material": "Wool",
+          "style": "Formal",
+          "brand": "Unknown",
+          "fabric_details": [
+            "Wool",
+            "Twill"
+          ],
+          "specific_type": "Trousers",
+          "additional_attributes": {
+            "pants_type": "Formal",
+            "length": "Full Length",
+            "waist": "High Waisted"
+          }
+        },
+        {
+          "category": "Footwear",
+          "type": "Heels",
+          "color": [
+            "Black"
+          ],
+          "material": "Patent Leather",
+          "style": "Formal",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "shoe_type": "Heels",
+            "heel_height": "High"
+          }
+        },
+        {
+          "category": "Accessory",
+          "type": "Earrings",
+          "color": [
+            "Black",
+            "Silver"
+          ],
+          "material": "Metal",
+          "style": "Formal",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "accessory_type": "Earrings",
+            "material": "Metal"
+          }
+        },
+        {
+          "category": "Accessory",
+          "type": "Hair Clip",
+          "color": [
+            "Silver"
+          ],
+          "material": "Metal",
+          "style": "Casual",
+          "brand": "Prada",
+          "additional_attributes": {
+            "accessory_type": "Hair Clip",
+            "material": "Metal"
+          }
+        },
+        {
+          "category": "Accessory",
+          "type": "Watch",
+          "color": [
+            "Silver"
+          ],
+          "material": "Metal",
+          "style": "Formal",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "watch_type": "Analog",
+            "features": []
+          }
+        },
+        {
+          "category": "Bag",
+          "type": "Handbag",
+          "color": [
+            "Black"
+          ],
+          "material": "Leather",
+          "style": "Formal",
+          "brand": "Chanel",
+          "additional_attributes": {
+            "bag_type": "Handbag",
+            "closure_type": "Magnetic",
+            "size": "Medium"
+          }
+        }
+      ],
+      "tags": [
+        "wool",
+        "watch",
+        "heels",
+        "accessory",
+        "patent_leather",
+        "earrings",
+        "cotton",
+        "clothing",
+        "black",
+        "footwear",
+        "handbag",
+        "metal",
+        "casual",
+        "shirt",
+        "hair_clip",
+        "chanel",
+        "pants",
+        "bag",
+        "formal",
+        "gray",
+        "silver",
+        "leather",
+        "prada"
+      ]
+    },
+    {
+      "image_path": "scraped_data\\images\\1012887772451378756.jpg",
+      "image_id": "1012887772451378756",
+      "title": "This contains an image of: ",
+      "description": "",
+      "source_url": "https://i.pinimg.com/736x/a4/f4/e1/a4f4e1841a923b80c84ae2e71e32bb76.jpg",
+      "board": "office",
+      "author": "mohanty2922",
+      "labels": [
+        {
+          "category": "Clothing",
+          "type": "Pants",
+          "color": [
+            "Black"
+          ],
+          "material": "Wool",
+          "style": "Formal",
+          "brand": "Unknown",
+          "fabric_details": [
+            "Woven",
+            "Wool"
+          ],
+          "specific_type": "Wide-Leg Trousers",
+          "additional_attributes": {
+            "pants_type": "Formal",
+            "length": "Full Length",
+            "waist": "High Waisted"
+          }
+        },
+        {
+          "category": "Clothing",
+          "type": "Vest",
+          "color": [
+            "Black",
+            "Gold"
+          ],
+          "material": "Polyester",
+          "style": "Formal",
+          "brand": "Balmain",
+          "fabric_details": [
+            "Woven",
+            "Pinstripe"
+          ],
+          "specific_type": "Pinstripe Vest",
+          "additional_attributes": {}
+        },
+        {
+          "category": "Footwear",
+          "type": "Heels",
+          "color": [
+            "Black"
+          ],
+          "material": "Patent Leather",
+          "style": "Formal",
+          "brand": "Dolce & Gabbana",
+          "additional_attributes": {
+            "shoe_type": "Heels",
+            "heel_height": "High"
+          }
+        },
+        {
+          "category": "Bag",
+          "type": "Handbag",
+          "color": [
+            "Black"
+          ],
+          "material": "Leather",
+          "style": "Formal",
+          "brand": "Prada",
+          "additional_attributes": {
+            "bag_type": "Handbag",
+            "closure_type": "Magnetic",
+            "size": "Medium"
+          }
+        },
+        {
+          "category": "Accessory",
+          "type": "Watch",
+          "color": [
+            "Gold",
+            "White"
+          ],
+          "material": [
+            "Metal",
+            "Diamonds"
+          ],
+          "style": "Formal",
+          "brand": "Cartier",
+          "additional_attributes": {
+            "watch_type": "Analog",
+            "features": []
+          }
+        },
+        {
+          "category": "Accessory",
+          "type": "Eyeglasses",
+          "color": [
+            "Black"
+          ],
+          "material": "Plastic",
+          "style": "Formal",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "accessory_type": "Eyeglasses",
+            "material": "Plastic"
+          }
+        }
+      ],
+      "tags": [
+        "vest",
+        "wool",
+        "watch",
+        "white",
+        "balmain",
+        "heels",
+        "polyester",
+        "accessory",
+        "patent_leather",
+        "clothing",
+        "black",
+        "footwear",
+        "handbag",
+        "dolce_&_gabbana",
+        "metal",
+        "pants",
+        "bag",
+        "formal",
+        "gold",
+        "eyeglasses",
+        "cartier",
+        "plastic",
+        "leather",
+        "prada",
+        "diamonds"
+      ]
+    },
+    {
+      "image_path": "scraped_data\\images\\1012887772451378752.jpg",
+      "image_id": "1012887772451378752",
+      "title": "This contains an image of: ",
+      "description": "",
+      "source_url": "https://i.pinimg.com/736x/cb/48/a8/cb48a8f644c15c38ad3ee9e1c836b3e6.jpg",
+      "board": "office",
+      "author": "mohanty2922",
+      "labels": [
+        {
+          "category": "Clothing",
+          "type": "Shirt",
+          "color": [
+            "Black"
+          ],
+          "material": "Unknown",
+          "style": "Casual",
+          "brand": "Unknown",
+          "fabric_details": [
+            "Unknown"
+          ],
+          "specific_type": "Off-the-shoulder",
+          "additional_attributes": {
+            "shirt_style": "T-shirt",
+            "neckline": "Off-the-shoulder",
+            "sleeve_type": "Sleeveless"
+          }
+        },
+        {
+          "category": "Clothing",
+          "type": "Pants",
+          "color": [
+            "Black"
+          ],
+          "material": "Unknown",
+          "style": "Formal",
+          "brand": "Unknown",
+          "fabric_details": [
+            "Unknown"
+          ],
+          "specific_type": "Wide-leg",
+          "additional_attributes": {
+            "pants_type": "Formal",
+            "length": "Full Length",
+            "waist": "High Waisted"
+          }
+        },
+        {
+          "category": "Footwear",
+          "type": "Heels",
+          "color": [
+            "Black"
+          ],
+          "material": "Suede",
+          "style": "Formal",
+          "brand": "Jimmy Choo",
+          "additional_attributes": {
+            "shoe_type": "Formal Shoes",
+            "heel_height": "High"
+          }
+        },
+        {
+          "category": "Bag",
+          "type": "Handbag",
+          "color": [
+            "Black"
+          ],
+          "material": "Leather",
+          "style": "Formal",
+          "brand": "Herm\u00e8s",
+          "additional_attributes": {
+            "bag_type": "Handbag",
+            "closure_type": "Clasp",
+            "size": "Medium"
+          }
+        },
+        {
+          "category": "Accessory",
+          "type": "Earrings",
+          "color": [
+            "Gold"
+          ],
+          "material": "Metal",
+          "style": "Casual",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "accessory_type": "Earrings",
+            "material": "Metal"
+          }
+        }
+      ],
+      "tags": [
+        "unknown",
+        "herm\u00e8s",
+        "heels",
+        "accessory",
+        "earrings",
+        "suede",
+        "clothing",
+        "black",
+        "footwear",
+        "handbag",
+        "metal",
+        "casual",
+        "shirt",
+        "pants",
+        "bag",
+        "formal",
+        "jimmy_choo",
+        "gold",
+        "leather"
+      ]
+    },
+    {
+      "image_path": "scraped_data\\images\\1012887772451572733.jpg",
+      "image_id": "1012887772451572733",
+      "title": "This contains an image of: ",
+      "description": "",
+      "source_url": "https://i.pinimg.com/736x/d3/1a/8a/d31a8a46d36df94f4b16a1ac9f32165c.jpg",
+      "board": "y2k-fashion",
+      "author": "mohanty2922",
+      "labels": [
+        {
+          "category": "Clothing",
+          "type": "Top",
+          "color": [
+            "Beige",
+            "Brown"
+          ],
+          "material": "Knit",
+          "style": "Casual",
+          "brand": "Unknown",
+          "fabric_details": [
+            "Knit",
+            "Soft"
+          ],
+          "specific_type": "Crop Top",
+          "additional_attributes": {
+            "shirt_style": [
+              "Camisole"
+            ],
+            "neckline": [
+              "Sweetheart"
+            ],
+            "sleeve_type": [
+              "Sleeveless"
+            ]
+          }
+        },
+        {
+          "category": "Clothing",
+          "type": "Skirt",
+          "color": [
+            "Blue"
+          ],
+          "material": "Denim",
+          "style": "Casual",
+          "brand": "Blumarine",
+          "fabric_details": [
+            "Denim"
+          ],
+          "specific_type": "Mini Skirt",
+          "additional_attributes": {
+            "skirt_length": [
+              "Mini"
+            ],
+            "waist_type": [
+              "High Waist"
+            ]
+          }
+        },
+        {
+          "category": "Footwear",
+          "type": "Heels",
+          "color": [
+            "Brown",
+            "Beige"
+          ],
+          "material": "Leather",
+          "style": "Casual",
+          "brand": "Tom Ford",
+          "additional_attributes": {
+            "shoe_type": [
+              "Sandals"
+            ],
+            "heel_height": [
+              "High"
+            ]
+          }
+        },
+        {
+          "category": "Accessory",
+          "type": "Necklace",
+          "color": [
+            "Gold"
+          ],
+          "material": "Metal",
+          "style": "Casual",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "accessory_type": [
+              "Necklace"
+            ],
+            "material": [
+              "Metal"
+            ]
+          }
+        },
+        {
+          "category": "Accessory",
+          "type": "Earrings",
+          "color": [
+            "Gold"
+          ],
+          "material": "Metal",
+          "style": "Casual",
+          "brand": "Vivienne Westwood",
+          "additional_attributes": {
+            "accessory_type": [
+              "Earrings"
+            ],
+            "material": [
+              "Metal"
+            ]
+          }
+        },
+        {
+          "category": "Accessory",
+          "type": "Sunglasses",
+          "color": [
+            "Brown"
+          ],
+          "material": "Plastic",
+          "style": "Casual",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "accessory_type": [
+              "Sunglasses"
+            ],
+            "material": [
+              "Plastic"
+            ]
+          }
+        },
+        {
+          "category": "Bag",
+          "type": "Handbag",
+          "color": [
+            "Brown"
+          ],
+          "material": "Leather",
+          "style": "Casual",
+          "brand": "Gucci",
+          "additional_attributes": {
+            "bag_type": [
+              "Handbag"
+            ],
+            "closure_type": [
+              "Magnetic"
+            ],
+            "size": [
+              "Medium"
+            ]
+          }
+        }
+      ],
+      "tags": [
+        "knit",
+        "sunglasses",
+        "denim",
+        "blue",
+        "brown",
+        "blumarine",
+        "heels",
+        "tom_ford",
+        "accessory",
+        "earrings",
+        "clothing",
+        "beige",
+        "footwear",
+        "handbag",
+        "gucci",
+        "skirt",
+        "metal",
+        "casual",
+        "top",
+        "bag",
+        "necklace",
+        "vivienne_westwood",
+        "gold",
+        "plastic",
+        "leather"
+      ]
+    },
+    {
+      "image_path": "scraped_data\\images\\1012887772451572408.jpg",
+      "image_id": "1012887772451572408",
+      "title": "This contains an image of: ",
+      "description": "",
+      "source_url": "https://i.pinimg.com/736x/67/75/c4/6775c4412140b64f7f0b5e52f8e9dda5.jpg",
+      "board": "y2k-fashion",
+      "author": "mohanty2922",
+      "labels": [
+        {
+          "category": "Clothing",
+          "type": "Corset",
+          "color": [
+            "Brown"
+          ],
+          "material": "Leather",
+          "style": "Casual",
+          "brand": "Unknown",
+          "fabric_details": [
+            "Leather"
+          ],
+          "specific_type": "Corset",
+          "additional_attributes": {}
+        },
+        {
+          "category": "Clothing",
+          "type": "Jeans Skirt",
+          "color": [
+            "Blue"
+          ],
+          "material": "Denim",
+          "style": "Casual",
+          "brand": "Unknown",
+          "fabric_details": [
+            "Denim"
+          ],
+          "specific_type": "Mini Skirt",
+          "additional_attributes": {
+            "skirt_length": "Mini",
+            "waist_type": "Mid Waist"
+          }
+        },
+        {
+          "category": "Footwear",
+          "type": "Boots",
+          "color": [
+            "Brown"
+          ],
+          "material": "Leather",
+          "style": "Casual",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "shoe_type": "Boots",
+            "heel_height": "High"
+          }
+        },
+        {
+          "category": "Accessory",
+          "type": "Sunglasses",
+          "color": [
+            "Brown"
+          ],
+          "material": "Plastic",
+          "style": "Casual",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "accessory_type": "Sunglasses",
+            "material": "Plastic"
+          }
+        },
+        {
+          "category": "Accessory",
+          "type": "Necklace",
+          "color": [
+            "Gold",
+            "Green"
+          ],
+          "material": "Metal",
+          "style": "Casual",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "accessory_type": "Necklace",
+            "material": "Metal"
+          }
+        },
+        {
+          "category": "Bag",
+          "type": "Handbag",
+          "color": [
+            "Black",
+            "Beige"
+          ],
+          "material": "Canvas",
+          "style": "Casual",
+          "brand": "Gucci",
+          "additional_attributes": {
+            "bag_type": "Handbag",
+            "closure_type": "Magnetic",
+            "size": "Medium"
+          }
+        }
+      ],
+      "tags": [
+        "sunglasses",
+        "denim",
+        "blue",
+        "brown",
+        "green",
+        "accessory",
+        "canvas",
+        "clothing",
+        "black",
+        "beige",
+        "footwear",
+        "handbag",
+        "gucci",
+        "metal",
+        "casual",
+        "corset",
+        "bag",
+        "necklace",
+        "gold",
+        "jeans_skirt",
+        "plastic",
+        "leather",
+        "boots"
+      ]
+    },
+    {
+      "image_path": "scraped_data\\images\\1012887772451572083.jpg",
+      "image_id": "1012887772451572083",
+      "title": "This contains an image of: ",
+      "description": "",
+      "source_url": "https://i.pinimg.com/736x/4b/66/19/4b661993042ea42ef1a2399644bd9f04.jpg",
+      "board": "y2k-fashion",
+      "author": "mohanty2922",
+      "labels": [
+        {
+          "category": "Clothing",
+          "type": "Shirt",
+          "color": [
+            "Silver"
+          ],
+          "material": "Metallic",
+          "style": "Party",
+          "brand": "Unknown",
+          "fabric_details": [
+            "Metallic",
+            "Silky"
+          ],
+          "specific_type": "Tank Top",
+          "additional_attributes": {
+            "shirt_style": "Tank Top",
+            "neckline": "Scoop Neck",
+            "sleeve_type": "Sleeveless"
+          }
+        },
+        {
+          "category": "Clothing",
+          "type": "Jeans",
+          "color": [
+            "Light Blue"
+          ],
+          "material": "Denim",
+          "style": "Casual",
+          "brand": "Unknown",
+          "fabric_details": [
+            "Denim",
+            "Stonewashed"
+          ],
+          "specific_type": "Bootcut Jeans",
+          "additional_attributes": {
+            "pants_type": "Jeans",
+            "length": "Full Length",
+            "waist": "Midrise"
+          }
+        },
+        {
+          "category": "Footwear",
+          "type": "Sandals",
+          "color": [
+            "Black"
+          ],
+          "material": "Leather",
+          "style": "Casual",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "shoe_type": "Sandals",
+            "heel_height": "Flat"
+          }
+        },
+        {
+          "category": "Bag",
+          "type": "Shoulder Bag",
+          "color": [
+            "White"
+          ],
+          "material": "Leather",
+          "style": "Casual",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "bag_type": "Shoulder Bag",
+            "closure_type": "Unknown",
+            "size": "Small"
+          }
+        }
+      ],
+      "tags": [
+        "sandals",
+        "shoulder_bag",
+        "casual",
+        "shirt",
+        "leather",
+        "silver",
+        "denim",
+        "light_blue",
+        "clothing",
+        "metallic",
+        "black",
+        "white",
+        "party",
+        "footwear",
+        "jeans",
+        "bag"
+      ]
+    },
+    {
+      "image_path": "scraped_data\\images\\1012887772451571989.jpg",
+      "image_id": "1012887772451571989",
+      "title": "This contains an image of: ",
+      "description": "",
+      "source_url": "https://i.pinimg.com/736x/c4/45/88/c44588abc704d5801909bbffeeb2feab.jpg",
+      "board": "y2k-fashion",
+      "author": "mohanty2922",
+      "labels": [
+        {
+          "category": "Clothing",
+          "type": "Top",
+          "color": [
+            "Silver"
+          ],
+          "material": "Metallic",
+          "style": "Party",
+          "brand": "Unknown",
+          "fabric_details": [
+            "Metallic",
+            "Sequin"
+          ],
+          "specific_type": "Halter Top",
+          "additional_attributes": {
+            "shirt_style": [
+              "Halter"
+            ],
+            "neckline": [
+              "V-neck"
+            ],
+            "sleeve_type": [
+              "Sleeveless"
+            ]
+          }
+        },
+        {
+          "category": "Clothing",
+          "type": "Skirt",
+          "color": [
+            "Black"
+          ],
+          "material": "Patent Leather",
+          "style": "Punk",
+          "brand": "Unknown",
+          "fabric_details": [
+            "Patent Leather"
+          ],
+          "specific_type": "Mini Skirt",
+          "additional_attributes": {
+            "skirt_length": [
+              "Mini"
+            ],
+            "waist_type": [
+              "High Waist"
+            ]
+          }
+        },
+        {
+          "category": "Footwear",
+          "type": "Boots",
+          "color": [
+            "Black",
+            "Silver"
+          ],
+          "material": [
+            "Leather",
+            "Metal"
+          ],
+          "style": "Cyberpunk",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "shoe_type": [
+              "Boots"
+            ],
+            "heel_height": [
+              "High"
+            ]
+          }
+        },
+        {
+          "category": "Accessory",
+          "type": "Necklace",
+          "color": [
+            "Black",
+            "Silver"
+          ],
+          "material": [
+            "Metal",
+            "Beads"
+          ],
+          "style": "Grunge",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "accessory_type": [
+              "Necklace"
+            ],
+            "material": [
+              "Metal"
+            ]
+          }
+        },
+        {
+          "category": "Accessory",
+          "type": "Earrings",
+          "color": [
+            "Silver"
+          ],
+          "material": "Metal",
+          "style": "Y2K",
+          "brand": "Vivienne Westwood",
+          "additional_attributes": {
+            "accessory_type": [
+              "Earrings"
+            ],
+            "material": [
+              "Metal"
+            ]
+          }
+        },
+        {
+          "category": "Accessory",
+          "type": "Sunglasses",
+          "color": [
+            "Black",
+            "Silver"
+          ],
+          "material": "Plastic",
+          "style": "Y2K",
+          "brand": "Prada",
+          "additional_attributes": {
+            "accessory_type": [
+              "Sunglasses"
+            ],
+            "material": [
+              "Plastic"
+            ]
+          }
+        },
+        {
+          "category": "Bag",
+          "type": "Handbag",
+          "color": [
+            "Silver"
+          ],
+          "material": "Metallic",
+          "style": "Y2K",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "bag_type": [
+              "Handbag"
+            ],
+            "closure_type": [
+              "Clasp"
+            ],
+            "size": [
+              "Small"
+            ]
+          }
+        }
+      ],
+      "tags": [
+        "sunglasses",
+        "metallic",
+        "accessory",
+        "patent_leather",
+        "earrings",
+        "beads",
+        "y2k",
+        "clothing",
+        "black",
+        "footwear",
+        "handbag",
+        "punk",
+        "skirt",
+        "metal",
+        "top",
+        "cyberpunk",
+        "bag",
+        "necklace",
+        "vivienne_westwood",
+        "silver",
+        "party",
+        "plastic",
+        "leather",
+        "boots",
+        "prada",
+        "grunge"
+      ]
+    },
+    {
+      "image_path": "scraped_data\\images\\1012887772451571526.jpg",
+      "image_id": "1012887772451571526",
+      "title": "This contains an image of: ",
+      "description": "",
+      "source_url": "https://i.pinimg.com/736x/4b/ff/1f/4bff1f5a2cddf02a9d2449c6a50abbaf.jpg",
+      "board": "y2k-fashion",
+      "author": "mohanty2922",
+      "labels": [
+        {
+          "category": "Clothing",
+          "type": "Top",
+          "color": [
+            "Brown",
+            "Beige"
+          ],
+          "material": "Silk",
+          "style": "Casual",
+          "brand": "Unknown",
+          "fabric_details": [
+            "Silk",
+            "Sheer"
+          ],
+          "specific_type": "Halter Top",
+          "additional_attributes": {
+            "neckline": [
+              "Halter"
+            ],
+            "sleeve_type": [
+              "Sleeveless"
+            ]
+          }
+        },
+        {
+          "category": "Clothing",
+          "type": "Skirt",
+          "color": [
+            "Blue"
+          ],
+          "material": "Denim",
+          "style": "Casual",
+          "brand": "Unknown",
+          "fabric_details": [
+            "Denim"
+          ],
+          "specific_type": "Mini Skirt",
+          "additional_attributes": {
+            "skirt_length": [
+              "Mini"
+            ],
+            "waist_type": [
+              "High Waist"
+            ]
+          }
+        },
+        {
+          "category": "Footwear",
+          "type": "Heels",
+          "color": [
+            "Brown",
+            "Gold"
+          ],
+          "material": "Canvas",
+          "style": "Casual",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "shoe_type": [
+              "Wedge Heels"
+            ],
+            "heel_height": [
+              "High"
+            ]
+          }
+        },
+        {
+          "category": "Accessory",
+          "type": "Sunglasses",
+          "color": [
+            "Brown"
+          ],
+          "material": "Plastic",
+          "style": "Casual",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "accessory_type": [
+              "Sunglasses"
+            ]
+          }
+        },
+        {
+          "category": "Accessory",
+          "type": "Earrings",
+          "color": [
+            "Gold"
+          ],
+          "material": "Metal",
+          "style": "Casual",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "accessory_type": [
+              "Earrings"
+            ]
+          }
+        },
+        {
+          "category": "Accessory",
+          "type": "Necklace",
+          "color": [
+            "Gold"
+          ],
+          "material": "Metal",
+          "style": "Casual",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "accessory_type": [
+              "Necklace"
+            ]
+          }
+        },
+        {
+          "category": "Accessory",
+          "type": "Bracelet",
+          "color": [
+            "Gold"
+          ],
+          "material": "Metal",
+          "style": "Casual",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "accessory_type": [
+              "Bracelet"
+            ]
+          }
+        },
+        {
+          "category": "Accessory",
+          "type": "Watch",
+          "color": [
+            "Gold"
+          ],
+          "material": "Metal",
+          "style": "Casual",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "watch_type": [
+              "Analog"
+            ]
+          }
+        },
+        {
+          "category": "Bag",
+          "type": "Handbag",
+          "color": [
+            "Brown"
+          ],
+          "material": "Leather",
+          "style": "Casual",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "bag_type": [
+              "Shoulder Bag"
+            ],
+            "closure_type": [
+              "Clasp"
+            ],
+            "size": [
+              "Medium"
+            ]
+          }
+        },
+        {
+          "category": "Accessory",
+          "type": "Belt",
+          "color": [
+            "Brown"
+          ],
+          "material": "Leather",
+          "style": "Casual",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "accessory_type": [
+              "Belt"
+            ]
+          }
+        }
+      ],
+      "tags": [
+        "sunglasses",
+        "watch",
+        "denim",
+        "blue",
+        "brown",
+        "bracelet",
+        "belt",
+        "heels",
+        "accessory",
+        "earrings",
+        "silk",
+        "canvas",
+        "clothing",
+        "beige",
+        "footwear",
+        "handbag",
+        "skirt",
+        "metal",
+        "casual",
+        "top",
+        "bag",
+        "necklace",
+        "gold",
+        "plastic",
+        "leather"
+      ]
+    },
+    {
+      "image_path": "scraped_data\\images\\1012887772451335305.jpg",
+      "image_id": "1012887772451335305",
+      "title": "This contains an image of: ",
+      "description": "",
+      "source_url": "https://i.pinimg.com/736x/5d/09/5f/5d095f73fa0ffd043ba202dd2f5cabd6.jpg",
+      "board": "y2k-fashion",
+      "author": "mohanty2922",
+      "labels": [
+        {
+          "category": "Clothing",
+          "type": "Shirt",
+          "color": [
+            "white"
+          ],
+          "material": "Cotton",
+          "style": "Casual",
+          "brand": "Unknown",
+          "fabric_details": [
+            "Cotton",
+            "Soft"
+          ],
+          "specific_type": "T-shirt",
+          "additional_attributes": {
+            "shirt_style": "T-shirt",
+            "neckline": "Round",
+            "sleeve_type": "Short Sleeve"
+          }
+        },
+        {
+          "category": "Clothing",
+          "type": "Skirt",
+          "color": [
+            "Blue"
+          ],
+          "material": "Denim",
+          "style": "Casual",
+          "brand": "Unknown",
+          "fabric_details": [
+            "Denim"
+          ],
+          "specific_type": "Mini Skirt",
+          "additional_attributes": {
+            "skirt_length": "Mini",
+            "waist_type": "High Waist"
+          }
+        },
+        {
+          "category": "Footwear",
+          "type": "Sandals",
+          "color": [
+            "Gold"
+          ],
+          "material": "Metallic Leather",
+          "style": "Casual",
+          "brand": "Aquazzura",
+          "additional_attributes": {
+            "shoe_type": "Sandals",
+            "heel_height": "High"
+          }
+        },
+        {
+          "category": "Accessory",
+          "type": "Necklace",
+          "color": [
+            "Gold"
+          ],
+          "material": "Metal",
+          "style": "Casual",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "accessory_type": "Necklace",
+            "material": "Metal"
+          }
+        },
+        {
+          "category": "Accessory",
+          "type": "Earrings",
+          "color": [
+            "Gold"
+          ],
+          "material": "Metal",
+          "style": "Casual",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "accessory_type": "Earrings",
+            "material": "Metal"
+          }
+        },
+        {
+          "category": "Accessory",
+          "type": "Bracelet",
+          "color": [
+            "Gold"
+          ],
+          "material": "Metal",
+          "style": "Casual",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "accessory_type": "Bracelet",
+            "material": "Metal"
+          }
+        },
+        {
+          "category": "Accessory",
+          "type": "Watch",
+          "color": [
+            "Gold"
+          ],
+          "material": "Metal",
+          "style": "Casual",
+          "brand": "Cartier",
+          "additional_attributes": {
+            "watch_type": "Analog",
+            "features": []
+          }
+        },
+        {
+          "category": "Bag",
+          "type": "Shoulder Bag",
+          "color": [
+            "Blue"
+          ],
+          "material": "Denim",
+          "style": "Casual",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "bag_type": "Shoulder Bag",
+            "closure_type": "Zipper",
+            "size": "Medium"
+          }
+        }
+      ],
+      "tags": [
+        "metallic_leather",
+        "watch",
+        "denim",
+        "blue",
+        "bracelet",
+        "white",
+        "accessory",
+        "earrings",
+        "cotton",
+        "clothing",
+        "aquazzura",
+        "footwear",
+        "skirt",
+        "shoulder_bag",
+        "metal",
+        "casual",
+        "shirt",
+        "bag",
+        "sandals",
+        "necklace",
+        "gold",
+        "cartier"
+      ]
+    },
+    {
+      "image_path": "scraped_data\\images\\1012887772451335301.jpg",
+      "image_id": "1012887772451335301",
+      "title": "This contains an image of: ",
+      "description": "",
+      "source_url": "https://i.pinimg.com/736x/d9/6f/61/d96f6159a499e783c631656c2f5384b8.jpg",
+      "board": "y2k-fashion",
+      "author": "mohanty2922",
+      "labels": [
+        {
+          "category": "Clothing",
+          "type": "Shirt",
+          "color": [
+            "Brown",
+            "Beige"
+          ],
+          "material": "Silk",
+          "style": "Casual",
+          "brand": "Unknown",
+          "fabric_details": [
+            "Silk",
+            "Leopard Print"
+          ],
+          "specific_type": "Tube Top",
+          "additional_attributes": {
+            "shirt_style": [
+              "Tube Top"
+            ],
+            "neckline": [
+              "Strapless"
+            ],
+            "sleeve_type": [
+              "Sleeveless"
+            ]
+          }
+        },
+        {
+          "category": "Clothing",
+          "type": "Jacket",
+          "color": [
+            "Black"
+          ],
+          "material": "Leather",
+          "style": "Casual",
+          "brand": "Unknown",
+          "fabric_details": [
+            "Leather"
+          ],
+          "specific_type": "Leather Jacket",
+          "additional_attributes": {}
+        },
+        {
+          "category": "Clothing",
+          "type": "Skirt",
+          "color": [
+            "Grey"
+          ],
+          "material": "Denim",
+          "style": "Casual",
+          "brand": "Unknown",
+          "fabric_details": [
+            "Denim"
+          ],
+          "specific_type": "Mini Skirt",
+          "additional_attributes": {
+            "skirt_length": [
+              "Mini"
+            ],
+            "waist_type": [
+              "High Waist"
+            ]
+          }
+        },
+        {
+          "category": "Footwear",
+          "type": "Sandals",
+          "color": [
+            "Black"
+          ],
+          "material": "Leather",
+          "style": "Casual",
+          "brand": "Gucci",
+          "additional_attributes": {
+            "shoe_type": [
+              "Sandals"
+            ],
+            "heel_height": [
+              "Low"
+            ]
+          }
+        },
+        {
+          "category": "Accessory",
+          "type": "Sunglasses",
+          "color": [
+            "Brown"
+          ],
+          "material": "Plastic",
+          "style": "Casual",
+          "brand": "Tory Burch",
+          "additional_attributes": {
+            "accessory_type": [
+              "Sunglasses"
+            ],
+            "material": [
+              "Plastic"
+            ]
+          }
+        },
+        {
+          "category": "Accessory",
+          "type": "Watch",
+          "color": [
+            "Brown",
+            "Gold"
+          ],
+          "material": "Metal",
+          "style": "Casual",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "watch_type": [
+              "Analog"
+            ],
+            "features": []
+          }
+        },
+        {
+          "category": "Bag",
+          "type": "Handbag",
+          "color": [
+            "Burgundy"
+          ],
+          "material": "Leather",
+          "style": "Casual",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "bag_type": [
+              "Handbag"
+            ],
+            "closure_type": [
+              "Top Handle"
+            ],
+            "size": [
+              "Medium"
+            ]
+          }
+        }
+      ],
+      "tags": [
+        "sunglasses",
+        "watch",
+        "denim",
+        "brown",
+        "grey",
+        "accessory",
+        "tory_burch",
+        "silk",
+        "clothing",
+        "black",
+        "beige",
+        "footwear",
+        "handbag",
+        "gucci",
+        "skirt",
+        "metal",
+        "casual",
+        "shirt",
+        "jacket",
+        "bag",
+        "sandals",
+        "burgundy",
+        "gold",
+        "plastic",
+        "leather"
+      ]
+    },
+    {
+      "image_path": "scraped_data\\images\\1012887772451302603.jpg",
+      "image_id": "1012887772451302603",
+      "title": "This contains an image of: ",
+      "description": "",
+      "source_url": "https://i.pinimg.com/736x/54/88/7c/54887c1c003d4109ec10e6a19f2c78fe.jpg",
+      "board": "y2k-fashion",
+      "author": "mohanty2922",
+      "labels": [
+        {
+          "category": "Clothing",
+          "type": "Sports Bra",
+          "color": [
+            "white"
+          ],
+          "material": "Cotton",
+          "style": "Sporty",
+          "brand": "Unknown",
+          "fabric_details": [
+            "Cotton",
+            "Stretchy"
+          ],
+          "specific_type": "Sports Bra",
+          "additional_attributes": {
+            "shirt_style": "Sleeveless",
+            "neckline": "Round",
+            "sleeve_type": "Sleeveless"
+          }
+        },
+        {
+          "category": "Clothing",
+          "type": "Track Pants",
+          "color": [
+            "navy blue",
+            "white"
+          ],
+          "material": "Polyester",
+          "style": "Sporty",
+          "brand": "Adidas",
+          "fabric_details": [
+            "Polyester",
+            "Smooth"
+          ],
+          "specific_type": "Track Pants",
+          "additional_attributes": {
+            "pants_type": "Joggers",
+            "length": "Full Length",
+            "waist": "Natural Waist"
+          }
+        }
+      ],
+      "tags": [
+        "polyester",
+        "navy_blue",
+        "cotton",
+        "adidas",
+        "sports_bra",
+        "track_pants",
+        "clothing",
+        "white",
+        "sporty"
+      ]
+    },
+    {
+      "image_path": "scraped_data\\images\\1012887772451302600.jpg",
+      "image_id": "1012887772451302600",
+      "title": "This contains an image of: Wildest celebrity fashion",
+      "description": "",
+      "source_url": "https://i.pinimg.com/736x/71/b8/b7/71b8b7db9c0371dc8a91a4dbe4e97659.jpg",
+      "board": "y2k-fashion",
+      "author": "mohanty2922",
+      "labels": [
+        {
+          "category": "Clothing",
+          "type": "Top",
+          "color": [
+            "Green"
+          ],
+          "material": "Unknown",
+          "style": "Costume",
+          "brand": "Unknown",
+          "fabric_details": [
+            "Unknown"
+          ],
+          "specific_type": "Crop Top",
+          "additional_attributes": {
+            "shirt_style": "Other",
+            "neckline": "Sweetheart",
+            "sleeve_type": "Sleeveless"
+          }
+        },
+        {
+          "category": "Clothing",
+          "type": "Shorts",
+          "color": [
+            "Silver"
+          ],
+          "material": "Unknown",
+          "style": "Costume",
+          "brand": "Unknown",
+          "fabric_details": [
+            "Unknown"
+          ],
+          "specific_type": "Shorts",
+          "additional_attributes": {
+            "short_length": "Short",
+            "waist_type": "Low Waist"
+          }
+        },
+        {
+          "category": "Clothing",
+          "type": "Skirt",
+          "color": [
+            "Teal",
+            "Green"
+          ],
+          "material": "Unknown",
+          "style": "Costume",
+          "brand": "Unknown",
+          "fabric_details": [
+            "Unknown"
+          ],
+          "specific_type": "Wrap Skirt",
+          "additional_attributes": {
+            "skirt_length": "Maxi",
+            "waist_type": "High Waist"
+          }
+        },
+        {
+          "category": "Footwear",
+          "type": "Boots",
+          "color": [
+            "Beige",
+            "Brown"
+          ],
+          "material": "Leather",
+          "style": "Costume",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "shoe_type": "Boots",
+            "heel_height": "High"
+          }
+        }
+      ],
+      "tags": [
+        "teal",
+        "green",
+        "top",
+        "silver",
+        "boots",
+        "brown",
+        "clothing",
+        "costume",
+        "beige",
+        "leather",
+        "unknown",
+        "footwear",
+        "shorts",
+        "skirt"
+      ]
+    },
+    {
+      "image_path": "scraped_data\\images\\ATRkiVejvXuIAfAkCm9p-z04Vfi2KonQwvNAV4iDMoXHGfadNvLUMMI.jpg",
+      "image_id": "ATRkiVejvXuIAfAkCm9p-z04Vfi2KonQwvNAV4iDMoXHGfadNvLUMMI",
+      "title": "This may contain: a woman with blonde hair and red pants talking on a cell phone while standing in front of microphones",
+      "description": "",
+      "source_url": "https://i.pinimg.com/736x/88/72/3a/88723a9bff5d486c759b55821b89db29.jpg",
+      "board": "y2k-fashion",
+      "author": "mohanty2922",
+      "labels": [
+        {
+          "category": "Clothing",
+          "type": "Pants",
+          "color": [
+            "Red"
+          ],
+          "material": "Suede",
+          "style": "Casual",
+          "brand": "Unknown",
+          "fabric_details": [
+            "Suede"
+          ],
+          "specific_type": "Bell Bottoms",
+          "additional_attributes": {
+            "pants_type": "Jeans",
+            "length": "Full Length",
+            "waist": "Midrise"
+          }
+        },
+        {
+          "category": "Clothing",
+          "type": "Shirt",
+          "color": [
+            "Gold"
+          ],
+          "material": "Sequin",
+          "style": "Casual",
+          "brand": "Unknown",
+          "fabric_details": [
+            "Sequin"
+          ],
+          "specific_type": "Crop Top",
+          "additional_attributes": {
+            "shirt_style": "T-shirt",
+            "neckline": "Round",
+            "sleeve_type": "Sleeveless"
+          }
+        },
+        {
+          "category": "Clothing",
+          "type": "Coat",
+          "color": [
+            "Red"
+          ],
+          "material": "Fur",
+          "style": "Casual",
+          "brand": "Unknown",
+          "fabric_details": [
+            "Fur"
+          ],
+          "specific_type": "Jacket",
+          "additional_attributes": {}
+        }
+      ],
+      "tags": [
+        "red",
+        "casual",
+        "shirt",
+        "gold",
+        "suede",
+        "pants",
+        "fur",
+        "clothing",
+        "coat",
+        "sequin"
+      ]
+    },
+    {
+      "image_path": "scraped_data\\images\\1012887772451302597.jpg",
+      "image_id": "1012887772451302597",
+      "title": "This may contain: a woman in a pink and white dress standing on a red carpet",
+      "description": "",
+      "source_url": "https://i.pinimg.com/736x/a8/e8/cb/a8e8cbe84b109f8c7531d87c644fb3e5.jpg",
+      "board": "y2k-fashion",
+      "author": "mohanty2922",
+      "labels": [
+        {
+          "category": "Clothing",
+          "type": "Crop Top",
+          "color": [
+            "Pink",
+            "Red"
+          ],
+          "material": "Sequin",
+          "style": "Party",
+          "brand": "Unknown",
+          "fabric_details": [
+            "Sequin",
+            "Glittery"
+          ],
+          "specific_type": "Crop Top",
+          "additional_attributes": {
+            "shirt_style": "Sleeveless",
+            "neckline": "Sweetheart",
+            "sleeve_type": "Sleeveless"
+          }
+        },
+        {
+          "category": "Clothing",
+          "type": "Mini Skirt",
+          "color": [
+            "Pink",
+            "Red"
+          ],
+          "material": "Sequin",
+          "style": "Party",
+          "brand": "Unknown",
+          "fabric_details": [
+            "Sequin",
+            "Glittery"
+          ],
+          "specific_type": "Mini Skirt",
+          "additional_attributes": {
+            "skirt_length": "Mini",
+            "waist_type": "High Waist"
+          }
+        },
+        {
+          "category": "Accessory",
+          "type": "Sunglasses",
+          "color": [
+            "Brown"
+          ],
+          "material": "Plastic",
+          "style": "Casual",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "accessory_type": "Sunglasses",
+            "material": "Plastic"
+          }
+        }
+      ],
+      "tags": [
+        "red",
+        "accessory",
+        "casual",
+        "sunglasses",
+        "brown",
+        "clothing",
+        "crop_top",
+        "plastic",
+        "party",
+        "pink",
+        "sequin",
+        "mini_skirt"
+      ]
+    },
+    {
+      "image_path": "scraped_data\\images\\1012887772451302544.jpg",
+      "image_id": "1012887772451302544",
+      "title": "This may contain: a woman in jeans and a hat standing on a red carpet with people behind her",
+      "description": "",
+      "source_url": "https://i.pinimg.com/736x/97/e3/dc/97e3dc1e221fd0c7f1dbf3173fa472ee.jpg",
+      "board": "y2k-fashion",
+      "author": "mohanty2922",
+      "labels": [
+        {
+          "category": "Clothing",
+          "type": "Shirt",
+          "color": [
+            "white"
+          ],
+          "material": "Cotton",
+          "style": "Casual",
+          "brand": "Unknown",
+          "fabric_details": [
+            "Cotton",
+            "Soft"
+          ],
+          "specific_type": "Crop Top",
+          "additional_attributes": {
+            "shirt_style": "T-shirt",
+            "neckline": "Round",
+            "sleeve_type": "Short Sleeve"
+          }
+        },
+        {
+          "category": "Clothing",
+          "type": "Jeans",
+          "color": [
+            "blue"
+          ],
+          "material": "Denim",
+          "style": "Casual",
+          "brand": "Unknown",
+          "fabric_details": [
+            "Denim",
+            "Ripped"
+          ],
+          "specific_type": "Jeans",
+          "additional_attributes": {
+            "pants_type": "Jeans",
+            "length": "Full Length",
+            "waist": "Midrise"
+          }
+        },
+        {
+          "category": "Accessory",
+          "type": "Hat",
+          "color": [
+            "purple",
+            "white"
+          ],
+          "material": "Unknown",
+          "style": "Casual",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "accessory_type": "Hat",
+            "material": "Fabric"
+          }
+        },
+        {
+          "category": "Accessory",
+          "type": "Gloves",
+          "color": [
+            "black",
+            "brown"
+          ],
+          "material": "Leather",
+          "style": "Casual",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "accessory_type": "Gloves",
+            "material": "Leather"
+          }
+        },
+        {
+          "category": "Bag",
+          "type": "Clutch",
+          "color": [
+            "black"
+          ],
+          "material": "Leather",
+          "style": "Casual",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "bag_type": "Clutch",
+            "closure_type": "Unknown",
+            "size": "Small"
+          }
+        },
+        {
+          "category": "Footwear",
+          "type": "Sandals",
+          "color": [
+            "black"
+          ],
+          "material": "Leather",
+          "style": "Casual",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "shoe_type": "Sandals",
+            "heel_height": "Flat"
+          }
+        }
+      ],
+      "tags": [
+        "denim",
+        "blue",
+        "brown",
+        "white",
+        "unknown",
+        "accessory",
+        "purple",
+        "clutch",
+        "cotton",
+        "clothing",
+        "black",
+        "footwear",
+        "jeans",
+        "casual",
+        "shirt",
+        "hat",
+        "bag",
+        "sandals",
+        "gloves",
+        "leather"
+      ]
+    },
+    {
+      "image_path": "scraped_data\\images\\1012887772451302531.jpg",
+      "image_id": "1012887772451302531",
+      "title": "This contains an image of: ",
+      "description": "",
+      "source_url": "https://i.pinimg.com/736x/35/7d/a3/357da359f66f92506dd7dca2e7fa3b94.jpg",
+      "board": "y2k-fashion",
+      "author": "mohanty2922",
+      "labels": [
+        {
+          "category": "Clothing",
+          "type": "Shirt",
+          "color": [
+            "White",
+            "Gray"
+          ],
+          "material": "Cotton",
+          "style": "Casual",
+          "brand": "Unknown",
+          "fabric_details": [
+            "Cotton",
+            "Striped"
+          ],
+          "specific_type": "Crop Top",
+          "additional_attributes": {
+            "shirt_style": "T-shirt",
+            "neckline": "Round",
+            "sleeve_type": "Short Sleeve"
+          }
+        },
+        {
+          "category": "Clothing",
+          "type": "Jeans",
+          "color": [
+            "Blue"
+          ],
+          "material": "Denim",
+          "style": "Casual",
+          "brand": "Unknown",
+          "fabric_details": [
+            "Denim"
+          ],
+          "specific_type": "Jeans",
+          "additional_attributes": {
+            "pants_type": "Jeans",
+            "length": "Full Length",
+            "waist": "Midrise"
+          }
+        }
+      ],
+      "tags": [
+        "casual",
+        "shirt",
+        "gray",
+        "denim",
+        "cotton",
+        "blue",
+        "clothing",
+        "white",
+        "jeans"
+      ]
+    },
+    {
+      "image_path": "scraped_data\\images\\1012887772451302519.jpg",
+      "image_id": "1012887772451302519",
+      "title": "This may contain: three beautiful women standing next to each other",
+      "description": "",
+      "source_url": "https://i.pinimg.com/736x/2e/74/95/2e7495b8ec815712b995190ecb0d420f.jpg",
+      "board": "y2k-fashion",
+      "author": "mohanty2922",
+      "labels": [
+        {
+          "category": "Clothing",
+          "type": "Top",
+          "color": [
+            "Light Green",
+            "Floral"
+          ],
+          "material": "Cotton",
+          "style": "Casual",
+          "brand": "Unknown",
+          "fabric_details": [
+            "Cotton",
+            "Floral Print"
+          ],
+          "specific_type": "Crop Top",
+          "additional_attributes": {
+            "shirt_style": "Other",
+            "neckline": "Sweetheart",
+            "sleeve_type": "Sleeveless"
+          }
+        },
+        {
+          "category": "Clothing",
+          "type": "Top",
+          "color": [
+            "Pink",
+            "Floral"
+          ],
+          "material": "Cotton",
+          "style": "Casual",
+          "brand": "Unknown",
+          "fabric_details": [
+            "Cotton",
+            "Floral Print"
+          ],
+          "specific_type": "Crop Top",
+          "additional_attributes": {
+            "shirt_style": "Other",
+            "neckline": "Sweetheart",
+            "sleeve_type": "Sleeveless"
+          }
+        },
+        {
+          "category": "Clothing",
+          "type": "Top",
+          "color": [
+            "Blue",
+            "Floral"
+          ],
+          "material": "Silk",
+          "style": "Casual",
+          "brand": "Unknown",
+          "fabric_details": [
+            "Silk",
+            "Floral Print"
+          ],
+          "specific_type": "Bra",
+          "additional_attributes": {
+            "shirt_style": "Other",
+            "neckline": "Sweetheart",
+            "sleeve_type": "Sleeveless"
+          }
+        },
+        {
+          "category": "Clothing",
+          "type": "Jeans",
+          "color": [
+            "Blue"
+          ],
+          "material": "Denim",
+          "style": "Casual",
+          "brand": "Unknown",
+          "fabric_details": [
+            "Denim"
+          ],
+          "specific_type": "Jeans",
+          "additional_attributes": {
+            "pants_type": "Jeans",
+            "length": "Full Length",
+            "waist": "Midrise"
+          }
+        },
+        {
+          "category": "Clothing",
+          "type": "Jeans",
+          "color": [
+            "Blue"
+          ],
+          "material": "Denim",
+          "style": "Casual",
+          "brand": "Unknown",
+          "fabric_details": [
+            "Denim"
+          ],
+          "specific_type": "Jeans",
+          "additional_attributes": {
+            "pants_type": "Jeans",
+            "length": "Full Length",
+            "waist": "Midrise"
+          }
+        },
+        {
+          "category": "Accessory",
+          "type": "Belt",
+          "color": [
+            "Silver"
+          ],
+          "material": "Crystal",
+          "style": "Casual",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "accessory_type": "Belt",
+            "material": "Crystal"
+          }
+        },
+        {
+          "category": "Accessory",
+          "type": "Belt",
+          "color": [
+            "Blue",
+            "Silver"
+          ],
+          "material": "Metal",
+          "style": "Casual",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "accessory_type": "Belt",
+            "material": "Metal"
+          }
+        },
+        {
+          "category": "Accessory",
+          "type": "Earrings",
+          "color": [
+            "Gold"
+          ],
+          "material": "Metal",
+          "style": "Casual",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "accessory_type": "Earrings",
+            "material": "Metal"
+          }
+        },
+        {
+          "category": "Accessory",
+          "type": "Bracelet",
+          "color": [
+            "Silver"
+          ],
+          "material": "Metal",
+          "style": "Casual",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "accessory_type": "Bracelet",
+            "material": "Metal"
+          }
+        }
+      ],
+      "tags": [
+        "light_green",
+        "denim",
+        "blue",
+        "bracelet",
+        "belt",
+        "accessory",
+        "earrings",
+        "silk",
+        "cotton",
+        "clothing",
+        "jeans",
+        "metal",
+        "casual",
+        "top",
+        "floral",
+        "pink",
+        "silver",
+        "gold",
+        "crystal"
+      ]
+    },
+    {
+      "image_path": "scraped_data\\images\\1012887772451302356.jpg",
+      "image_id": "1012887772451302356",
+      "title": "This contains an image of: ",
+      "description": "",
+      "source_url": "https://i.pinimg.com/736x/c6/c5/6d/c6c56d0b2031bc6dc6d1d20de12251a8.jpg",
+      "board": "y2k-fashion",
+      "author": "mohanty2922",
+      "labels": [
+        {
+          "category": "Clothing",
+          "type": "Coat",
+          "color": [
+            "Beige",
+            "Brown"
+          ],
+          "material": "Fur",
+          "style": "Casual",
+          "brand": "Unknown",
+          "fabric_details": [
+            "Fur"
+          ],
+          "specific_type": "Fur Coat",
+          "additional_attributes": {}
+        },
+        {
+          "category": "Clothing",
+          "type": "Jeans",
+          "color": [
+            "Blue"
+          ],
+          "material": "Denim",
+          "style": "Casual",
+          "brand": "Unknown",
+          "fabric_details": [
+            "Denim"
+          ],
+          "specific_type": "Jeans",
+          "additional_attributes": {
+            "pants_type": "Jeans",
+            "length": "Full Length",
+            "waist": "Midrise"
+          }
+        },
+        {
+          "category": "Clothing",
+          "type": "Tank Top",
+          "color": [
+            "White"
+          ],
+          "material": "Cotton",
+          "style": "Casual",
+          "brand": "Helmut Lang",
+          "fabric_details": [
+            "Cotton"
+          ],
+          "specific_type": "Tank Top",
+          "additional_attributes": {}
+        },
+        {
+          "category": "Footwear",
+          "type": "Boots",
+          "color": [
+            "White",
+            "Brown"
+          ],
+          "material": "Leather",
+          "style": "Casual",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "shoe_type": "Boots",
+            "heel_height": "High"
+          }
+        },
+        {
+          "category": "Bag",
+          "type": "Handbag",
+          "color": [
+            "Brown"
+          ],
+          "material": "Leather",
+          "style": "Casual",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "bag_type": "Handbag",
+            "closure_type": "Magnetic",
+            "size": "Medium"
+          }
+        },
+        {
+          "category": "Accessory",
+          "type": "Earrings",
+          "color": [
+            "Silver"
+          ],
+          "material": "Metal",
+          "style": "Casual",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "accessory_type": "Earrings",
+            "material": "Metal"
+          }
+        }
+      ],
+      "tags": [
+        "denim",
+        "blue",
+        "brown",
+        "white",
+        "coat",
+        "accessory",
+        "earrings",
+        "cotton",
+        "helmut_lang",
+        "fur",
+        "clothing",
+        "beige",
+        "footwear",
+        "handbag",
+        "jeans",
+        "metal",
+        "casual",
+        "tank_top",
+        "bag",
+        "silver",
+        "leather",
+        "boots"
+      ]
+    },
+    {
+      "image_path": "scraped_data\\images\\1012887772451302351.jpg",
+      "image_id": "1012887772451302351",
+      "title": "This contains an image of: ",
+      "description": "",
+      "source_url": "https://i.pinimg.com/736x/7e/29/c9/7e29c99229c136b39fc04a752be7b0d2.jpg",
+      "board": "y2k-fashion",
+      "author": "mohanty2922",
+      "labels": [
+        {
+          "category": "Clothing",
+          "type": "Jeans",
+          "color": [
+            "Blue"
+          ],
+          "material": "Denim",
+          "style": "Casual",
+          "brand": "Unknown",
+          "fabric_details": [
+            "Denim"
+          ],
+          "specific_type": "Jeans",
+          "additional_attributes": {
+            "pants_type": "Jeans",
+            "length": "Full Length",
+            "waist": "Midrise"
+          }
+        },
+        {
+          "category": "Clothing",
+          "type": "Top",
+          "color": [
+            "Brown"
+          ],
+          "material": "Leather",
+          "style": "Casual",
+          "brand": "Unknown",
+          "fabric_details": [
+            "Leather"
+          ],
+          "specific_type": "Tube Top",
+          "additional_attributes": {
+            "shirt_style": "Tube Top",
+            "neckline": "Strapless",
+            "sleeve_type": "Sleeveless"
+          }
+        },
+        {
+          "category": "Footwear",
+          "type": "Sneakers",
+          "color": [
+            "Brown",
+            "White"
+          ],
+          "material": "Suede",
+          "style": "Casual",
+          "brand": "Adidas",
+          "additional_attributes": {
+            "shoe_type": "Sneakers",
+            "heel_height": "Flat"
+          }
+        },
+        {
+          "category": "Accessory",
+          "type": "Headphones",
+          "color": [
+            "Black"
+          ],
+          "material": "Plastic",
+          "style": "Casual",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "accessory_type": "Headphones",
+            "material": "Plastic"
+          }
+        },
+        {
+          "category": "Accessory",
+          "type": "Necklace",
+          "color": [
+            "Gold"
+          ],
+          "material": "Metal",
+          "style": "Casual",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "accessory_type": "Necklace",
+            "material": "Metal"
+          }
+        },
+        {
+          "category": "Accessory",
+          "type": "Earrings",
+          "color": [
+            "Gold"
+          ],
+          "material": "Metal",
+          "style": "Casual",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "accessory_type": "Earrings",
+            "material": "Metal"
+          }
+        },
+        {
+          "category": "Accessory",
+          "type": "Belt",
+          "color": [
+            "Brown"
+          ],
+          "material": "Leather",
+          "style": "Casual",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "accessory_type": "Belt",
+            "material": "Leather"
+          }
+        },
+        {
+          "category": "Accessory",
+          "type": "Bracelet",
+          "color": [
+            "Gold"
+          ],
+          "material": "Metal",
+          "style": "Casual",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "accessory_type": "Bracelet",
+            "material": "Metal"
+          }
+        },
+        {
+          "category": "Bag",
+          "type": "Handbag",
+          "color": [
+            "Black"
+          ],
+          "material": "Leather",
+          "style": "Casual",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "bag_type": "Handbag",
+            "closure_type": "Zipper",
+            "size": "Medium"
+          }
+        }
+      ],
+      "tags": [
+        "denim",
+        "blue",
+        "brown",
+        "adidas",
+        "bracelet",
+        "white",
+        "belt",
+        "accessory",
+        "earrings",
+        "suede",
+        "clothing",
+        "black",
+        "footwear",
+        "jeans",
+        "handbag",
+        "metal",
+        "casual",
+        "top",
+        "bag",
+        "necklace",
+        "gold",
+        "sneakers",
+        "headphones",
+        "plastic",
+        "leather"
+      ]
+    },
+    {
+      "image_path": "scraped_data\\images\\1012887772451302328.jpg",
+      "image_id": "1012887772451302328",
+      "title": "This contains an image of: ",
+      "description": "",
+      "source_url": "https://i.pinimg.com/736x/d7/c7/d5/d7c7d52020815c7bee844d3cfc759e2f.jpg",
+      "board": "y2k-fashion",
+      "author": "mohanty2922",
+      "labels": [
+        {
+          "category": "Clothing",
+          "type": "Shirt",
+          "color": [
+            "navy blue",
+            "white"
+          ],
+          "material": "Cotton",
+          "style": "Casual",
+          "brand": "Unknown",
+          "fabric_details": [
+            "Cotton jersey"
+          ],
+          "specific_type": "T-shirt",
+          "additional_attributes": {
+            "shirt_style": "T-shirt",
+            "neckline": "Round",
+            "sleeve_type": "Short Sleeve"
+          }
+        },
+        {
+          "category": "Clothing",
+          "type": "Skirt",
+          "color": [
+            "blue"
+          ],
+          "material": "Denim",
+          "style": "Casual",
+          "brand": "Ed Hardy",
+          "fabric_details": [
+            "Denim"
+          ],
+          "specific_type": "Mini Skirt",
+          "additional_attributes": {
+            "skirt_length": "Mini",
+            "waist_type": "Mid Waist"
+          }
+        },
+        {
+          "category": "Clothing",
+          "type": "Jacket",
+          "color": [
+            "black"
+          ],
+          "material": "Leather",
+          "style": "Casual",
+          "brand": "Unknown",
+          "fabric_details": [
+            "Leather"
+          ],
+          "specific_type": "Leather Jacket",
+          "additional_attributes": {}
+        },
+        {
+          "category": "Footwear",
+          "type": "Sneakers",
+          "color": [
+            "navy blue",
+            "white"
+          ],
+          "material": "Suede",
+          "style": "Sporty",
+          "brand": "Adidas",
+          "additional_attributes": {
+            "shoe_type": "Sneakers",
+            "heel_height": "Flat"
+          }
+        },
+        {
+          "category": "Accessory",
+          "type": "Necklace",
+          "color": [
+            "silver"
+          ],
+          "material": "Metal",
+          "style": "Casual",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "accessory_type": "Necklace",
+            "material": "Metal"
+          }
+        },
+        {
+          "category": "Accessory",
+          "type": "Belt",
+          "color": [
+            "silver"
+          ],
+          "material": "Rhinestone",
+          "style": "Casual",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "accessory_type": "Belt",
+            "material": "Rhinestone"
+          }
+        },
+        {
+          "category": "Accessory",
+          "type": "Earrings",
+          "color": [
+            "silver"
+          ],
+          "material": "Metal",
+          "style": "Casual",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "accessory_type": "Earrings",
+            "material": "Metal"
+          }
+        },
+        {
+          "category": "Accessory",
+          "type": "Bracelet",
+          "color": [
+            "silver",
+            "gold"
+          ],
+          "material": "Metal",
+          "style": "Casual",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "accessory_type": "Bracelet",
+            "material": "Metal"
+          }
+        },
+        {
+          "category": "Accessory",
+          "type": "Sunglasses",
+          "color": [
+            "brown"
+          ],
+          "material": "Plastic",
+          "style": "Casual",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "accessory_type": "Sunglasses",
+            "material": "Plastic"
+          }
+        }
+      ],
+      "tags": [
+        "sunglasses",
+        "rhinestone",
+        "denim",
+        "blue",
+        "adidas",
+        "brown",
+        "bracelet",
+        "white",
+        "belt",
+        "accessory",
+        "navy_blue",
+        "earrings",
+        "suede",
+        "cotton",
+        "clothing",
+        "black",
+        "footwear",
+        "skirt",
+        "sporty",
+        "metal",
+        "casual",
+        "shirt",
+        "jacket",
+        "necklace",
+        "ed_hardy",
+        "silver",
+        "gold",
+        "sneakers",
+        "plastic",
+        "leather"
+      ]
+    },
+    {
+      "image_path": "scraped_data\\images\\1012887772451302322.jpg",
+      "image_id": "1012887772451302322",
+      "title": "This contains an image of: ",
+      "description": "",
+      "source_url": "https://i.pinimg.com/736x/90/cf/11/90cf11df43d3b23e65f8adb07f3bec37.jpg",
+      "board": "y2k-fashion",
+      "author": "mohanty2922",
+      "labels": [
+        {
+          "category": "Clothing",
+          "type": "Top",
+          "color": [
+            "Brown",
+            "Beige"
+          ],
+          "material": "Polyester",
+          "style": "Casual",
+          "brand": "Unknown",
+          "fabric_details": [
+            "Animal Print"
+          ],
+          "specific_type": "Halter Top",
+          "additional_attributes": {
+            "shirt_style": [
+              "Halter"
+            ],
+            "neckline": [
+              "Sweetheart"
+            ],
+            "sleeve_type": [
+              "Sleeveless"
+            ]
+          }
+        },
+        {
+          "category": "Clothing",
+          "type": "Skirt",
+          "color": [
+            "Blue"
+          ],
+          "material": "Denim",
+          "style": "Casual",
+          "brand": "Unknown",
+          "fabric_details": [
+            "Denim"
+          ],
+          "specific_type": "Mini Skirt",
+          "additional_attributes": {
+            "skirt_length": [
+              "Mini"
+            ],
+            "waist_type": [
+              "Mid Waist"
+            ]
+          }
+        },
+        {
+          "category": "Footwear",
+          "type": "Sandals",
+          "color": [
+            "Brown",
+            "Beige"
+          ],
+          "material": "Fabric",
+          "style": "Casual",
+          "brand": "Dolce & Gabbana",
+          "additional_attributes": {
+            "shoe_type": [
+              "Sandals"
+            ],
+            "heel_height": [
+              "High"
+            ]
+          }
+        },
+        {
+          "category": "Accessory",
+          "type": "Sunglasses",
+          "color": [
+            "Black"
+          ],
+          "material": "Plastic",
+          "style": "Casual",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "accessory_type": [
+              "Sunglasses"
+            ],
+            "material": [
+              "Plastic"
+            ]
+          }
+        },
+        {
+          "category": "Accessory",
+          "type": "Necklace",
+          "color": [
+            "Silver",
+            "Black"
+          ],
+          "material": "Metal",
+          "style": "Casual",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "accessory_type": [
+              "Necklace"
+            ],
+            "material": [
+              "Metal"
+            ]
+          }
+        },
+        {
+          "category": "Accessory",
+          "type": "Bracelet",
+          "color": [
+            "Gold"
+          ],
+          "material": "Metal",
+          "style": "Casual",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "accessory_type": [
+              "Bracelet"
+            ],
+            "material": [
+              "Metal"
+            ]
+          }
+        },
+        {
+          "category": "Accessory",
+          "type": "Belt",
+          "color": [
+            "Black"
+          ],
+          "material": "Leather",
+          "style": "Punk",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "accessory_type": [
+              "Belt"
+            ],
+            "material": [
+              "Leather"
+            ]
+          }
+        },
+        {
+          "category": "Accessory",
+          "type": "Bracelet",
+          "color": [
+            "Brown",
+            "Gold"
+          ],
+          "material": [
+            "Leather",
+            "Metal"
+          ],
+          "style": "Bohemian",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "accessory_type": [
+              "Bracelet"
+            ],
+            "material": [
+              "Leather",
+              "Metal"
+            ]
+          }
+        }
+      ],
+      "tags": [
+        "sunglasses",
+        "denim",
+        "blue",
+        "brown",
+        "bohemian",
+        "bracelet",
+        "belt",
+        "polyester",
+        "accessory",
+        "clothing",
+        "black",
+        "beige",
+        "footwear",
+        "punk",
+        "skirt",
+        "fabric",
+        "dolce_&_gabbana",
+        "metal",
+        "casual",
+        "top",
+        "sandals",
+        "necklace",
+        "silver",
+        "gold",
+        "plastic",
+        "leather"
+      ]
+    },
+    {
+      "image_path": "scraped_data\\images\\1012887772451302320.jpg",
+      "image_id": "1012887772451302320",
+      "title": "This contains an image of: skirt",
+      "description": "",
+      "source_url": "https://i.pinimg.com/736x/9f/bd/88/9fbd882bc147a53671200a60155dff4d.jpg",
+      "board": "y2k-fashion",
+      "author": "mohanty2922",
+      "labels": [
+        {
+          "category": "Accessory",
+          "type": "Headphones",
+          "color": [
+            "Silver"
+          ],
+          "material": "Metal",
+          "style": "Casual",
+          "brand": "Unknown"
+        },
+        {
+          "category": "Accessory",
+          "type": "Sunglasses",
+          "color": [
+            "Brown",
+            "Gold"
+          ],
+          "material": "Metal",
+          "style": "Casual",
+          "brand": "Unknown"
+        },
+        {
+          "category": "Bag",
+          "type": "Shoulder Bag",
+          "color": [
+            "Brown"
+          ],
+          "material": "Leather",
+          "style": "Casual",
+          "brand": "Guess"
+        },
+        {
+          "category": "Clothing",
+          "type": "Shirt",
+          "color": [
+            "Black"
+          ],
+          "material": "Cotton",
+          "style": "Casual",
+          "fabric_details": [
+            "Cotton"
+          ],
+          "specific_type": "Tube Top",
+          "additional_attributes": {
+            "shirt_style": [
+              "Tube Top"
+            ],
+            "neckline": [
+              "Strapless"
+            ],
+            "sleeve_type": [
+              "Sleeveless"
+            ]
+          }
+        },
+        {
+          "category": "Clothing",
+          "type": "Skirt",
+          "color": [
+            "Blue"
+          ],
+          "material": "Denim",
+          "style": "Casual",
+          "fabric_details": [
+            "Denim"
+          ],
+          "specific_type": "Mini Skirt",
+          "additional_attributes": {
+            "skirt_length": [
+              "Mini"
+            ],
+            "waist_type": [
+              "Mid Waist"
+            ]
+          }
+        },
+        {
+          "category": "Footwear",
+          "type": "Sneakers",
+          "color": [
+            "Black",
+            "White"
+          ],
+          "material": "Leather",
+          "style": "Sporty",
+          "brand": "Adidas"
+        },
+        {
+          "category": "Accessory",
+          "type": "Rings",
+          "color": [
+            "Silver"
+          ],
+          "material": "Metal",
+          "style": "Casual",
+          "brand": "Unknown"
+        },
+        {
+          "category": "Accessory",
+          "type": "Necklace",
+          "color": [
+            "Silver"
+          ],
+          "material": "Metal",
+          "style": "Casual",
+          "brand": "Unknown"
+        },
+        {
+          "category": "Accessory",
+          "type": "Earrings",
+          "color": [
+            "Brown",
+            "Silver"
+          ],
+          "material": "Metal",
+          "style": "Bohemian",
+          "brand": "Unknown"
+        }
+      ],
+      "tags": [
+        "sunglasses",
+        "denim",
+        "blue",
+        "brown",
+        "adidas",
+        "rings",
+        "bohemian",
+        "white",
+        "accessory",
+        "earrings",
+        "cotton",
+        "clothing",
+        "black",
+        "footwear",
+        "skirt",
+        "sporty",
+        "shoulder_bag",
+        "metal",
+        "casual",
+        "shirt",
+        "guess",
+        "bag",
+        "necklace",
+        "silver",
+        "gold",
+        "sneakers",
+        "headphones",
+        "leather"
+      ]
+    },
+    {
+      "image_path": "scraped_data\\images\\1012887772451302306.jpg",
+      "image_id": "1012887772451302306",
+      "title": "This contains an image of: ",
+      "description": "",
+      "source_url": "https://i.pinimg.com/736x/e3/e4/84/e3e484b0ea94a5b29152a0d00c1d948e.jpg",
+      "board": "y2k-fashion",
+      "author": "mohanty2922",
+      "labels": [
+        {
+          "category": "Clothing",
+          "type": "Top",
+          "color": [
+            "Black"
+          ],
+          "material": "Unknown",
+          "style": "Casual",
+          "brand": "Unknown",
+          "fabric_details": [
+            "Unknown"
+          ],
+          "specific_type": "Halter top",
+          "additional_attributes": {
+            "neckline": [
+              "V-neck"
+            ],
+            "sleeve_type": [
+              "Sleeveless"
+            ]
+          }
+        },
+        {
+          "category": "Clothing",
+          "type": "Jeans",
+          "color": [
+            "Black"
+          ],
+          "material": "Denim",
+          "style": "Casual",
+          "brand": "Unknown",
+          "fabric_details": [
+            "Denim"
+          ],
+          "specific_type": "Bell Bottom Jeans",
+          "additional_attributes": {
+            "pants_type": [
+              "Jeans"
+            ],
+            "length": [
+              "Full Length"
+            ],
+            "waist": [
+              "High Waisted"
+            ]
+          }
+        },
+        {
+          "category": "Footwear",
+          "type": "Heels",
+          "color": [
+            "Red"
+          ],
+          "material": "Patent Leather",
+          "style": "Casual",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "shoe_type": [
+              "Heels"
+            ],
+            "heel_height": [
+              "High"
+            ]
+          }
+        },
+        {
+          "category": "Accessory",
+          "type": "Sunglasses",
+          "color": [
+            "Brown"
+          ],
+          "material": "Plastic",
+          "style": "Casual",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "accessory_type": [
+              "Sunglasses"
+            ],
+            "material": [
+              "Plastic"
+            ]
+          }
+        },
+        {
+          "category": "Bag",
+          "type": "Handbag",
+          "color": [
+            "Brown"
+          ],
+          "material": "Leather",
+          "style": "Casual",
+          "brand": "Vivienne Westwood",
+          "additional_attributes": {
+            "bag_type": [
+              "Handbag"
+            ],
+            "closure_type": [
+              "Unknown"
+            ],
+            "size": [
+              "Medium"
+            ]
+          }
+        },
+        {
+          "category": "Accessory",
+          "type": "Earrings",
+          "color": [
+            "Red",
+            "Silver"
+          ],
+          "material": "Metal",
+          "style": "Casual",
+          "brand": "Vivienne Westwood",
+          "additional_attributes": {
+            "accessory_type": [
+              "Earrings"
+            ],
+            "material": [
+              "Metal"
+            ]
+          }
+        },
+        {
+          "category": "Accessory",
+          "type": "Necklace",
+          "color": [
+            "Silver"
+          ],
+          "material": "Metal",
+          "style": "Casual",
+          "brand": "Unknown",
+          "additional_attributes": {
+            "accessory_type": [
+              "Necklace"
+            ],
+            "material": [
+              "Metal"
+            ]
+          }
+        }
+      ],
+      "tags": [
+        "sunglasses",
+        "denim",
+        "brown",
+        "unknown",
+        "heels",
+        "accessory",
+        "patent_leather",
+        "earrings",
+        "clothing",
+        "black",
+        "footwear",
+        "handbag",
+        "jeans",
+        "red",
+        "metal",
+        "casual",
+        "top",
+        "bag",
+        "necklace",
+        "vivienne_westwood",
+        "silver",
+        "plastic",
+        "leather"
+      ]
+    }
+  ]
+}

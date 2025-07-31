@@ -1,0 +1,136 @@
+🎨 **Advanced Fashion Analysis Report**
+============================================================
+
+👕 **Detected Fashion Items:**
+
+**1. Shirt**
+   • **Category:** Clothing
+   • **Colors:** Brown, Beige
+   • **Material:** Silk
+   • **Style:** Casual
+   • **Details:** shirt_style: ['Tube Top'], neckline: ['Strapless'], sleeve_type: ['Sleeveless']
+
+**2. Jacket**
+   • **Category:** Clothing
+   • **Colors:** Black
+   • **Material:** Leather
+   • **Style:** Casual
+
+**3. Skirt**
+   • **Category:** Clothing
+   • **Colors:** Grey
+   • **Material:** Denim
+   • **Style:** Casual
+   • **Details:** skirt_length: ['Mini'], waist_type: ['High Waist']
+
+**4. Sandals**
+   • **Category:** Footwear
+   • **Colors:** Black
+   • **Material:** Leather
+   • **Style:** Casual
+   • **Brand:** Gucci
+
+**5. Sunglasses**
+   • **Category:** Accessory
+   • **Colors:** Brown
+   • **Material:** Plastic
+   • **Style:** Casual
+   • **Brand:** Tory Burch
+
+**6. Watch**
+   • **Category:** Accessory
+   • **Colors:** Brown, Gold
+   • **Material:** Metal
+   • **Style:** Casual
+
+**7. Handbag**
+   • **Category:** Bag
+   • **Colors:** Burgundy
+   • **Material:** Leather
+   • **Style:** Casual
+
+🎯 **Comprehensive Style Analysis:**
+
+**Overall Aesthetic:** This outfit exudes a confident, effortlessly chic vibe with a touch of 90s grunge influence. The combination of a leopard print tube top, denim mini skirt, and leather jacket creates a modern take on a classic rock-inspired look.
+**Style Category:** Edgy Casual
+
+🌟 **Style Influencer Matches:**
+   **Kendall Jenner** @kendalljenner
+   • **Why:** Kendall Jenner often incorporates edgy pieces with classic silhouettes, like this outfit. Her style is known for its effortless coolness and mix of high-end and streetwear.
+   • **Style Notes:** Similar use of leather jackets, mini skirts, and a mix of textures. Her style often includes neutral tones with pops of color or print.
+
+   **Hailey Bieber** @haileybieber
+   • **Why:** Hailey Bieber's style is a blend of classic and contemporary elements, with a focus on relaxed sophistication.  This outfit's mix of textures and casual pieces reflects her aesthetic.
+   • **Style Notes:** Her style utilizes similar color palettes and combines classic pieces with modern twists. She also frequently features leather jackets and effortless silhouettes.
+
+🎨 **Color Analysis:**
+   • **Palette:** The color palette is neutral and grounded, primarily using black, brown, beige, and grey. The leopard print adds a touch of warmth and visual interest.
+   • **Harmony:** The colors work harmoniously due to their neutral nature. The black leather jacket provides contrast to the softer tones of the top and skirt while the burgundy handbag adds a pop of deeper color.
+   • **Seasonal:** The color palette is suitable for both autumn and spring.  The browns and beiges are warm and autumnal, while the black and grey provide a cool and versatile option for spring.
+   • **Psychology:** The black leather jacket and black shoes exude confidence and power. The neutral tones of beige and brown create a sense of calm and sophistication, while the leopard print adds a touch of playfulness and boldness.
+
+📐 **Silhouette Analysis:**
+   • **Shape:** The outfit silhouette is balanced, with the fitted tube top and mini skirt creating a streamlined look under the slightly oversized leather jacket.
+   • **Proportions:** The proportions are well-balanced. The mini skirt balances the length of the tube top, while the jacket adds a layer without overwhelming the overall shape.
+   • **Fit Philosophy:** The fit philosophy is a mix of fitted and slightly oversized. The tube top and mini skirt are fitted, creating a body-conscious shape, while the leather jacket is slightly oversized for a more relaxed feel.
+
+🧵 **Fabric & Texture Analysis:**
+   • **Texture Mix:** The mix of textures is key to this outfit's success. The smooth silk of the tube top contrasts the rough texture of the denim skirt and the sleek leather jacket. This creates visual interest and depth.
+   • **Quality:** The outfit appears to use high-quality materials; genuine leather for the jacket and possibly higher-end denim for the skirt and Gucci sandals are notable indicators of this.
+   • **Seasonal:** The leather jacket is suitable for cooler seasons. The silk top is light and airy, suggesting it is suitable for warmer weather, however, the layering with the leather jacket makes it versatile for various temperatures.
+
+✨ **Styling Techniques:**
+   • Layering a leather jacket over a tube top and mini skirt creates a stylish and versatile look. 
+   • Adding a pop of color with burgundy handbag balances out the neutral tones.
+   • The accessories, such as sunglasses and watch, add a touch of personality and sophistication.
+
+🔍 **Fashion Nuances:**
+   • The leopard print on the silk tube top adds a touch of boldness and sophistication. 
+   • The high-waisted denim mini skirt flatters the body shape. 
+   • The selection of black Gucci sandals complements the overall aesthetic.
+   • The burgundy handbag adds a touch of unexpected color to elevate the look.
+
+📅 **Occasion Analysis:**
+   **Perfect for:**
+   • Night out, casual date, concert, shopping.
+   **Versatility:** This outfit is quite versatile. By changing the accessories or layering pieces, it can be dressed up or down for various occasions.
+   **Dress Code:** Appropriate for a casual dress code. It could be adapted for semi-formal settings by swapping out some pieces or changing the accessories.
+
+📈 **Trend Analysis:**
+   **Current Trends:**
+   • 90s revival: Leather jackets and mini skirts are trending. 
+   • Leopard print: Animal prints always make a comeback.
+   • Elevated casual wear: Combining casual items with luxurious accessories and fabrics.
+   **Timeless Elements:**
+   • Leather jackets, mini skirts, and neutral colors are timeless pieces that will always be in style.
+   • Classic silhouettes and simple designs will not easily go out of fashion.
+   **Future Outlook:** The outfit's timeless elements and classic silhouettes ensure longevity. The 90s revival trend means it will remain stylish for the foreseeable future. The incorporation of luxurious accessories helps make it stand the test of time and adaptable to upcoming trends.
+
+🏷️ **Brand Aesthetic:**
+   **Similar Brands:**
+   • Aritzia,  Reformation,  & Other Stories
+   **Price Point:** Mid-range to high-end, considering the Gucci sandals and potential high-quality materials used.
+   **Luxury Indicators:**
+   • Gucci Sandals, quality leather jacket, and potential high-quality materials such as silk and genuine leather.
+
+👤 **Personal Style Insights:**
+   **Personality Traits:**
+   • Confident, stylish, edgy, independent, bold
+   **Lifestyle Indications:**
+   • Active social life, enjoys fashion, appreciates quality pieces, keeps up with current trends.
+   **Confidence Level:** High - the outfit conveys confidence and self-assuredness through its silhouette, color choices, and use of high-end accessories.
+
+💡 **Styling Recommendations:**
+   • Try experimenting with different types of belts with the skirt.
+   • Adding a delicate necklace could create more visual interest.
+   • A different bag could change the tone of the outfit, for example a shoulder bag could feel more relaxed and less formal.
+
+🌱 **Sustainability Notes:**
+   **Sustainable Elements:**
+   • If the leather and denim used are sourced responsibly, these are durable items that would last years.
+   • Purchasing pre-owned high-quality items rather than buying new.
+   **Longevity:** High – The classic silhouettes and high-quality materials used are likely to remain stylish for many years.
+   **Investment Value:** High - this outfit is a blend of versatile, high-quality items that can be worn repeatedly and remain fashionable.
+
+============================================================
+*Advanced analysis generated on August 01, 2025 at 12:53 AM*

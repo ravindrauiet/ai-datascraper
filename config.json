@@ -1,0 +1,29 @@
+{
+    "output_dir": "scraped_data",
+    "images_dir": "images",
+    "data_file": "pinterest_data.json",
+    "log_file": "scraper.log",
+    "max_pins_per_board": 20,
+    "request_delay": 2,
+    "max_workers": 3,
+    "headless": false,
+    "use_undetected_chrome": true,
+    "gemini_api_key": "AIzaSyAq7NFDHYxqiD2M_OhCk5I9bke21FbguLI",
+    "gemini_api_keys": [
+        "AIzaSyAq7NFDHYxqiD2M_OhCk5I9bke21FbguLI",
+        "AIzaSyBYofYx_pWVy-o81yu0ge57zmOqZL6oIXo",
+        "AIzaSyBJp77LnGJIdPp7Dop6bl37LkKq4Bhea8w",
+        "AIzaSyBGjQ1mVcCwbSwpgtPqztfIZgG9uLdoeRA",
+        "AIzaSyD5wKxT3qQ5FE_Outh7h31K_37Ut1BZIwg",
+        "AIzaSyDMld8WTlko0Dm7BaC8iIA91gG2plxIzaI",
+        "AIzaSyCfkSVT0C5VRahFkBLtgoA-E-N2ScAucnY",
+        "AIzaSyCnoS-p5r8zkBIW1K2a3lk9wX7Z3OSHI_w",
+        "your_api_key_9_here",
+        "your_api_key_10_here"
+    ],
+    "api_cooldown_minutes": 60,
+    "max_retries": 3,
+    "proxy_list": [],
+    "pinterest_email": "letstradeage19@gmail.com",
+    "pinterest_password": "Vivek@gmail.com"
+}

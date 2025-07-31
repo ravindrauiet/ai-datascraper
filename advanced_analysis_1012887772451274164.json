@@ -1,0 +1,91 @@
+{
+  "fashion_items": [
+    {
+      "category": "Clothing",
+      "type": "Shirt",
+      "color": [
+        "Black"
+      ],
+      "material": "Cotton",
+      "style": "Casual",
+      "brand": "Unknown",
+      "fabric_details": [
+        "Cotton",
+        "Ribbed"
+      ],
+      "specific_type": "Long Sleeve T-Shirt",
+      "additional_attributes": {
+        "shirt_style": "Long Sleeve",
+        "neckline": "Round",
+        "sleeve_type": "Long Sleeve"
+      }
+    },
+    {
+      "category": "Clothing",
+      "type": "Pants",
+      "color": [
+        "Beige",
+        "Grey"
+      ],
+      "material": "Cotton",
+      "style": "Casual",
+      "brand": "Unknown",
+      "fabric_details": [
+        "Cotton",
+        "slightly distressed"
+      ],
+      "specific_type": "Cargo Pants",
+      "additional_attributes": {
+        "pants_type": "Cargo",
+        "length": "Full Length",
+        "waist": "Midrise"
+      }
+    },
+    {
+      "category": "Accessory",
+      "type": "Sunglasses",
+      "color": [
+        "Black"
+      ],
+      "material": "Plastic",
+      "style": "Casual",
+      "brand": "Unknown",
+      "additional_attributes": {
+        "accessory_type": "Sunglasses",
+        "material": "Plastic"
+      }
+    },
+    {
+      "category": "Accessory",
+      "type": "Earrings",
+      "color": [
+        "Gold"
+      ],
+      "material": "Metal",
+      "style": "Casual",
+      "brand": "Unknown",
+      "additional_attributes": {
+        "accessory_type": "Earrings",
+        "material": "Metal"
+      }
+    },
+    {
+      "category": "Bag",
+      "type": "Shoulder Bag",
+      "color": [
+        "White"
+      ],
+      "material": "Leather",
+      "style": "Casual",
+      "brand": "Unknown",
+      "additional_attributes": {
+        "bag_type": "Crossbody",
+        "closure_type": "Magnetic",
+        "size": "Small"
+      }
+    }
+  ],
+  "style_analysis": {},
+  "analyzed_at": "2025-08-01T00:19:11.699868",
+  "ai_model_version": "v3.0.0-advanced"
+}

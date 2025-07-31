@@ -1,0 +1,29 @@
+{
+  "pin_id": "2a5eb514f2a2",
+  "url": "https://in.pinterest.com/mohanty2922/y2k-fashion//pin/367156",
+  "title": "Fashion Item 1000",
+  "description": "Beautiful fashion piece from y2k-fashion",
+  "board_url": "https://in.pinterest.com/mohanty2922/y2k-fashion/",
+  "board_name": "",
+  "scraped_at": "2025-07-28T21:58:05.616760",
+  "image_url": "https://i.pinimg.com/564x/49/15/18/sample.jpg",
+  "tags": [
+    "fashion",
+    "style",
+    "outfit"
+  ],
+  "ai_analysis": {
+    "analyzed_at": "2025-07-28T21:58:07.128059",
+    "fashion_items": [
+      "dress",
+      "accessories"
+    ],
+    "colors": [
+      "blue",
+      "white"
+    ],
+    "style": "casual",
+    "season": "summer",
+    "confidence": 0.85
+  }
+}

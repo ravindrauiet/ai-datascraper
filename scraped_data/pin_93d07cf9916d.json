@@ -1,0 +1,29 @@
+{
+  "pin_id": "93d07cf9916d",
+  "url": "https://in.pinterest.com/mohanty2922/hailey-bieber-fashion//pin/544269",
+  "title": "Fashion Item 605",
+  "description": "Beautiful fashion piece from hailey-bieber-fashion",
+  "board_url": "https://in.pinterest.com/mohanty2922/hailey-bieber-fashion/",
+  "board_name": "",
+  "scraped_at": "2025-07-30T09:54:27.557625",
+  "image_url": "https://i.pinimg.com/564x/57/21/12/sample.jpg",
+  "tags": [
+    "fashion",
+    "style",
+    "outfit"
+  ],
+  "ai_analysis": {
+    "analyzed_at": "2025-07-30T09:54:28.060503",
+    "fashion_items": [
+      "dress",
+      "accessories"
+    ],
+    "colors": [
+      "blue",
+      "white"
+    ],
+    "style": "casual",
+    "season": "summer",
+    "confidence": 0.85
+  }
+}

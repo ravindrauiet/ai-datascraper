@@ -1,0 +1,153 @@
+🎨 **Advanced Fashion Analysis Report**
+============================================================
+
+👕 **Detected Fashion Items:**
+
+**1. Top**
+   • **Category:** Clothing
+   • **Colors:** Beige, Brown
+   • **Material:** Knit
+   • **Style:** Casual
+   • **Details:** shirt_style: ['Camisole'], neckline: ['Sweetheart'], sleeve_type: ['Sleeveless']
+
+**2. Skirt**
+   • **Category:** Clothing
+   • **Colors:** Blue
+   • **Material:** Denim
+   • **Style:** Casual
+   • **Brand:** Blumarine
+   • **Details:** skirt_length: ['Mini'], waist_type: ['High Waist']
+
+**3. Heels**
+   • **Category:** Footwear
+   • **Colors:** Brown, Beige
+   • **Material:** Leather
+   • **Style:** Casual
+   • **Brand:** Tom Ford
+
+**4. Necklace**
+   • **Category:** Accessory
+   • **Colors:** Gold
+   • **Material:** Metal
+   • **Style:** Casual
+
+**5. Earrings**
+   • **Category:** Accessory
+   • **Colors:** Gold
+   • **Material:** Metal
+   • **Style:** Casual
+   • **Brand:** Vivienne Westwood
+
+**6. Sunglasses**
+   • **Category:** Accessory
+   • **Colors:** Brown
+   • **Material:** Plastic
+   • **Style:** Casual
+
+**7. Handbag**
+   • **Category:** Bag
+   • **Colors:** Brown
+   • **Material:** Leather
+   • **Style:** Casual
+   • **Brand:** Gucci
+
+🎯 **Comprehensive Style Analysis:**
+
+**Overall Aesthetic:** This outfit exudes a luxurious, modern take on 90s-inspired casual chic. It's a sophisticated yet playful blend of high-end designer pieces and subtly trendy elements, creating a look that is both stylish and approachable.
+**Style Category:** Elevated Casual
+
+🌟 **Style Influencer Matches:**
+   **Bella Hadid** @bellahadid
+   • **Why:** Bella Hadid often incorporates a mix of designer items with more casual pieces, creating a high-low look with a focus on silhouette and subtle styling.
+   • **Style Notes:** Her style features form-fitting silhouettes, neutral color palettes with pops of color or print, and a preference for luxury labels paired with effortlessly cool staples.
+
+   **Kendall Jenner** @kendalljenner
+   • **Why:** Kendall Jenner's style is characterized by its understated elegance and emphasis on sophisticated casualwear with a hint of 90's flair.
+   • **Style Notes:** She often incorporates high-end designers into laid-back ensembles, prioritizing well-tailored pieces and classic silhouettes, balancing luxury items with accessible choices.
+
+🎨 **Color Analysis:**
+   • **Palette:** The outfit primarily features a neutral palette of beige, brown, and gold, with a pop of blue from the denim skirt. This creates a cohesive yet visually interesting color story.
+   • **Harmony:** The colors work together through analogous harmony, creating a calm and refined atmosphere. The denim provides a striking contrast that elevates the overall look.
+   • **Seasonal:** The warm neutrals suggest autumn or late summer; however, the outfit's styling makes it adaptable to other seasons with simple accessory swaps.
+   • **Psychology:** The earth tones convey a sense of sophistication, stability, and understated elegance. Gold accents add a touch of luxury and warmth.
+
+📐 **Silhouette Analysis:**
+   • **Shape:** The outfit creates an hourglass silhouette, emphasizing the waist with a cropped top and high-waisted mini skirt.  The proportions are well-balanced, resulting in a flattering and stylish aesthetic.
+   • **Proportions:** The balance is achieved by the contrast between the cropped top and the mini skirt. The high waist accentuates the legs and maintains proportion.
+   • **Fit Philosophy:** The outfit blends form-fitting and slightly loose components. The top is fitted, while the skirt is slightly loose, creating a balanced and relaxed fit.
+
+🧵 **Fabric & Texture Analysis:**
+   • **Texture Mix:** The knit top, denim skirt, and leather handbag offer a compelling interplay of textures, creating visual interest and depth without being overwhelming. The animal print also adds to this textural complexity.
+   • **Quality:** The combination of knit, denim, and leather suggests a focus on quality and durability, hinting at a higher-end price point.
+   • **Seasonal:** The knit top is suitable for cooler weather, while the denim skirt is more versatile. The leather bag is suitable year-round.
+
+✨ **Styling Techniques:**
+   • Layering necklaces to create visual interest
+   • Pairing a cropped top with a high-waisted skirt to highlight the waist
+   • Using a neutral color palette as a base, with pops of color
+
+🔍 **Fashion Nuances:**
+   • The subtle leopard print detail adds a hint of unexpected texture and flair.
+   • The choice of gold jewelry enhances the overall luxurious feel.
+   • The high heels elongate the legs, complementing the mini skirt.
+   • The styling leans towards a 'dressed-up casual' vibe, perfect for a night out.
+
+📅 **Occasion Analysis:**
+   **Perfect for:**
+   • Dinner date
+   • Night out
+   • Cocktail party
+   • Shopping trip
+   **Versatility:** The outfit is versatile enough for various occasions. Switching the heels for flats makes it suitable for daytime events.
+   **Dress Code:** This outfit is semi-formal, appropriate for most events that call for a 'dressy casual' or 'smart casual' dress code.
+
+📈 **Trend Analysis:**
+   **Current Trends:**
+   • Mini skirts
+   • High-waisted bottoms
+   • Cropped tops
+   • Gold jewelry
+   • Animal print
+   **Timeless Elements:**
+   • Classic denim
+   • Neutral colors
+   • Well-tailored pieces
+   **Future Outlook:** This outfit blends current trends with timeless elements, ensuring its longevity. The core elements will remain stylish for years to come.
+
+🏷️ **Brand Aesthetic:**
+   **Similar Brands:**
+   • Reformation
+   • Aritzia
+   • & Other Stories
+   **Price Point:** Mid-to-high-end, ranging from $500 to $2000 depending on the specific items.
+   **Luxury Indicators:**
+   • The inclusion of designer brands Tom Ford and Gucci
+   • The high-quality materials such as leather and denim
+   • The well-tailored and impeccably styled nature of the outfit
+
+👤 **Personal Style Insights:**
+   **Personality Traits:**
+   • Confident
+   • Stylish
+   • Sophisticated
+   • Trendy
+   • Playful
+   **Lifestyle Indications:**
+   • The style suggests an active social life and a preference for upscale brands and experiences.
+   • It indicates a keen interest in fashion and attention to detail.
+   **Confidence Level:** High: The outfit exudes confidence and a strong sense of personal style.
+
+💡 **Styling Recommendations:**
+   • Consider adding a lightweight blazer or jacket for cooler weather.
+   • Experiment with different shoe options, such as boots or sneakers for a more casual look.
+   • A statement belt could further enhance the waist definition.
+
+🌱 **Sustainability Notes:**
+   **Sustainable Elements:**
+   • If purchased secondhand or from brands committed to sustainability, the outfit's sustainability can be improved.
+   • Choosing classic, high-quality pieces that can be worn repeatedly over time promotes sustainability.
+   **Longevity:** High: The outfit's classic foundation and neutral color palette contribute to its longevity.
+   **Investment Value:** High: The mix of designer items and timeless pieces makes this outfit a valuable addition to a wardrobe.
+
+============================================================
+*Advanced analysis generated on August 01, 2025 at 12:51 AM*

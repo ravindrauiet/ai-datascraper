@@ -1,0 +1,128 @@
+{
+  "family": "pinterest-scraper-task-def",
+  "networkMode": "awsvpc",
+  "requiresCompatibilities": ["FARGATE"],
+  "cpu": "1024",
+  "memory": "2048",
+  "executionRoleArn": "arn:aws:iam::${AWS_ACCOUNT_ID}:role/production-pinterest-ecs-execution-role",
+  "taskRoleArn": "arn:aws:iam::${AWS_ACCOUNT_ID}:role/production-pinterest-ecs-task-role",
+  "containerDefinitions": [
+    {
+      "name": "pinterest-scraper-api",
+      "image": "${AWS_ACCOUNT_ID}.dkr.ecr.${AWS_REGION}.amazonaws.com/pinterest-scraper-api:latest",
+      "portMappings": [
+        {
+          "containerPort": 8000,
+          "protocol": "tcp"
+        }
+      ],
+      "essential": true,
+      "environment": [
+        {
+          "name": "APP_NAME",
+          "value": "Pinterest Scraper API"
+        },
+        {
+          "name": "APP_VERSION",
+          "value": "1.0.0"
+        },
+        {
+          "name": "DEBUG",
+          "value": "false"
+        },
+        {
+          "name": "HOST",
+          "value": "0.0.0.0"
+        },
+        {
+          "name": "PORT",
+          "value": "8000"
+        },
+        {
+          "name": "MONGODB_URL",
+          "value": "mongodb://production-mongodb:27017"
+        },
+        {
+          "name": "DATABASE_NAME",
+          "value": "pinterest_scraper"
+        },
+        {
+          "name": "AWS_REGION",
+          "value": "${AWS_REGION}"
+        },
+        {
+          "name": "S3_BUCKET_NAME",
+          "value": "production-pinterest-images-${AWS_ACCOUNT_ID}"
+        },
+        {
+          "name": "DEFAULT_MAX_PINS",
+          "value": "100"
+        },
+        {
+          "name": "REQUEST_DELAY",
+          "value": "2"
+        },
+        {
+          "name": "MAX_CONCURRENT_JOBS",
+          "value": "3"
+        },
+        {
+          "name": "LOG_LEVEL",
+          "value": "INFO"
+        },
+        {
+          "name": "ENVIRONMENT",
+          "value": "production"
+        }
+      ],
+      "secrets": [
+        {
+          "name": "PINTEREST_EMAIL",
+          "valueFrom": "arn:aws:secretsmanager:${AWS_REGION}:${AWS_ACCOUNT_ID}:secret:production-pinterest-credentials:email::"
+        },
+        {
+          "name": "PINTEREST_PASSWORD",
+          "valueFrom": "arn:aws:secretsmanager:${AWS_REGION}:${AWS_ACCOUNT_ID}:secret:production-pinterest-credentials:password::"
+        },
+        {
+          "name": "GEMINI_API_KEY",
+          "valueFrom": "arn:aws:secretsmanager:${AWS_REGION}:${AWS_ACCOUNT_ID}:secret:production-gemini-api-key:api_key::"
+        },
+        {
+          "name": "API_KEY",
+          "valueFrom": "arn:aws:secretsmanager:${AWS_REGION}:${AWS_ACCOUNT_ID}:secret:production-api-key:key::"
+        },
+        {
+          "name": "JWT_SECRET_KEY",
+          "valueFrom": "arn:aws:secretsmanager:${AWS_REGION}:${AWS_ACCOUNT_ID}:secret:production-api-key:jwt_secret::"
+        },
+        {
+          "name": "AWS_ACCESS_KEY_ID",
+          "valueFrom": "arn:aws:secretsmanager:${AWS_REGION}:${AWS_ACCOUNT_ID}:secret:production-aws-credentials:access_key_id::"
+        },
+        {
+          "name": "AWS_SECRET_ACCESS_KEY",
+          "valueFrom": "arn:aws:secretsmanager:${AWS_REGION}:${AWS_ACCOUNT_ID}:secret:production-aws-credentials:secret_access_key::"
+        }
+      ],
+      "logConfiguration": {
+        "logDriver": "awslogs",
+        "options": {
+          "awslogs-group": "/ecs/production-pinterest-api",
+          "awslogs-region": "${AWS_REGION}",
+          "awslogs-stream-prefix": "ecs"
+        }
+      },
+      "healthCheck": {
+        "command": [
+          "CMD-SHELL",
+          "curl -f http://localhost:8000/health || exit 1"
+        ],
+        "interval": 30,
+        "timeout": 10,
+        "retries": 3,
+        "startPeriod": 60
+      }
+    }
+  ]
+}

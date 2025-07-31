@@ -1,0 +1,29 @@
+{
+  "pin_id": "dfe4a736df24",
+  "url": "https://in.pinterest.com/mohanty2922/rita-mota-fashion//pin/360643",
+  "title": "Fashion Item 696",
+  "description": "Beautiful fashion piece from rita-mota-fashion",
+  "board_url": "https://in.pinterest.com/mohanty2922/rita-mota-fashion/",
+  "board_name": "",
+  "scraped_at": "2025-07-31T12:35:44.966049",
+  "image_url": "https://i.pinimg.com/564x/39/69/84/sample.jpg",
+  "tags": [
+    "fashion",
+    "style",
+    "outfit"
+  ],
+  "ai_analysis": {
+    "analyzed_at": "2025-07-31T12:35:45.971361",
+    "fashion_items": [
+      "dress",
+      "accessories"
+    ],
+    "colors": [
+      "blue",
+      "white"
+    ],
+    "style": "casual",
+    "season": "summer",
+    "confidence": 0.85
+  }
+}
